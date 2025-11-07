@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ <unk> <unk>
+
+02. (h01)
+ dir
+
+03. (h01)
+ isbn
+
+04. (h01)
+ commodore cdtv
+
+05. (h01)
+ mhz iisi
+
+06. (h01)
+ autodesk bbs
+
+07. (h01)
+ unsubscribe
+
+08. (h01)
+ unsubscribe
+
+09. (h02)
+ polysyllabic polysyllabic
+
+10. (h00)
+ deleted
+
+11. (h01)
+ lou gehrig <unk>
+
+12. (h01)
+ ken
+
+13. (h02)
+ exit
+
+14. (h01)
+ <unk> jeremy scott noonan
+
+15. (h01)
+ apr <unk> ists <unk> <unk> ists
+
+16. (h02)
+ test
+
+17. (h02)
+ test
+
+18. (h01)
+ <unk> phones
+
+19. (h01)
+ david
+
+20. (h01)
+ bill mcd
+
+21. (h01)
+ italy sweden canada sweden russia italy
+
+22. (h00)
+ posted
+
+23. (h01)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+24. (h01)
+ compuserve com
+
+25. (h01)
+ mjones donald aix kingston ibm com
+
+26. (h01)
+ dancing <unk>
+
+27. (h01)
+ career mattingly
+
+28. (h01)
+ cheek
+
+29. (h02)
+ ignore
+
+30. (h01)
+ dreams
+
+31. (h01)
+ comp graphics faq
+
+32. (h01)
+ pierre turgeon islanders
+
+33. (h01)
+ dino ciccarelli ray sheppard
+
+34. (h02)
+ mistake
+
+35. (h00)
+ please subscrive
+
+36. (h00)
+ please subscrive
+
+37. (h01)
+ ernest <unk> <unk> sage purdue edu <unk> sage <unk>
+
+38. (h01)
+ joke
+
+39. (h01)
+ objects ufos
+
+40. (h01)
+ <unk> order
+
+41. (h02)
+ ultimate <unk>
+
+42. (h02)
+ caching drive
+
+43. (h01)
+ xli xloadimage imagemagick export lcs mit edu contrib
+
+44. (h02)
+ subscribe <unk> <unk> eve <unk>
+
+45. (h02)
+ unfortunately
+
+46. (h01)
+ bullshit
+
+47. (h00)
+ <unk> subscrive please subscribe
+
+48. (h00)
+ please subscribe
+
+49. (h00)
+ please subscribe
+
+50. (h00)
+ please subscribe
+

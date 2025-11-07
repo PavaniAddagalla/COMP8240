@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ <unk> <unk>
+
+02. (h00)
+ <unk>
+
+03. (h00)
+ isbn
+
+04. (h00)
+ dir
+
+05. (h00)
+ commodore cdtv
+
+06. (h00)
+ unsubscribe
+
+07. (h00)
+ unsubscribe
+
+08. (h02)
+ polysyllabic polysyllabic
+
+09. (h00)
+ mhz iisi
+
+10. (h00)
+ autodesk bbs
+
+11. (h00)
+ deleted
+
+12. (h00)
+ ken
+
+13. (h00)
+ lou gehrig <unk>
+
+14. (h00)
+ apr <unk> ists <unk> <unk> ists
+
+15. (h00)
+ david
+
+16. (h01)
+ dreams
+
+17. (h00)
+ jsn jeremy scott noonan
+
+18. (h03)
+ exit
+
+19. (h00)
+ italy sweden canada sweden russia italy
+
+20. (h01)
+ dancing <unk>
+
+21. (h04)
+ posted
+
+22. (h01)
+ <unk> phones
+
+23. (h01)
+ test
+
+24. (h01)
+ test
+
+25. (h01)
+ career mattingly
+
+26. (h02)
+ mistake
+
+27. (h02)
+ ultimate <unk>
+
+28. (h01)
+ objects <unk>
+
+29. (h00)
+ pierre turgeon islanders
+
+30. (h04)
+ please subscrive
+
+31. (h04)
+ please subscrive
+
+32. (h01)
+ joke
+
+33. (h03)
+ ignore
+
+34. (h01)
+ religious fanaticism
+
+35. (h01)
+ bullshit
+
+36. (h01)
+ <unk> order
+
+37. (h04)
+ consistently
+
+38. (h02)
+ unfortunately
+
+39. (h01)
+ alt law enforcement
+
+40. (h00)
+ bill mcd
+
+41. (h00)
+ jesus peace
+
+42. (h00)
+ compuserve com
+
+43. (h02)
+ simple
+
+44. (h01)
+ alt religion spam
+
+45. (h02)
+ yes
+
+46. (h02)
+ good
+
+47. (h01)
+ ego trip
+
+48. (h01)
+ urban areas
+
+49. (h00)
+ mjones donald aix kingston ibm com
+
+50. (h00)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+

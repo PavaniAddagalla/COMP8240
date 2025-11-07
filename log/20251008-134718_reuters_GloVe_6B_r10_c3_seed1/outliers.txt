@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h05)
+ walgreen qtr shr cts cts walgreen qtr shr cts cts
+
+02. (h05)
+ apr apr
+
+03. (h05)
+ apr apr
+
+04. (h05)
+ apr apr
+
+05. (h05)
+ oct oct
+
+06. (h05)
+ oct oct
+
+07. (h05)
+ oct oct
+
+08. (h05)
+ oct oct
+
+09. (h05)
+ oct oct
+
+10. (h05)
+ ncr corp qtr shr cts cts ncr corp qtr shr cts cts
+
+11. (h05)
+ whirlpool corp qtr shr cts cts whirlpool corp qtr shr cts cts
+
+12. (h05)
+ gte corp qtr shr cts cts gte corp qtr shr cts cts
+
+13. (h00)
+ jun jun
+
+14. (h00)
+ jun jun
+
+15. (h05)
+ rubbermaid inc qtr shr cts cts rubbermaid inc qtr shr cts cts
+
+16. (h05)
+ <unk> corp <unk> qtr mar shr cts cts net revs mln mln
+
+17. (h05)
+ roto rooter inc roto qtr net shr cts cts net revs mln
+
+18. (h05)
+ <unk> corp <unk> qtr net shr cts cts net mln mln revs mln mln
+
+19. (h05)
+ <unk> corp <unk> qtr sept net shr cts cts net revs mln mln avg shrs mln mln
+
+20. (h05)
+ tandy corp <unk> qtr sept net shr cts cts net mln mln revs mln mln avg shrs mln mln
+
+21. (h05)
+ ford raises qtly payout cts shr cts ford raises qtly payout cts shr cts
+
+22. (h05)
+ westinghouse electric corp qtr shr dlrs cts westinghouse electric corp qtr shr dlrs cts
+
+23. (h05)
+ ohio <unk> <unk> qtr net shr cts cts net mln mln revs mln mln avg shrs mln mln mths shr dlrs dlrs net mln mln revs billion billion avg shrs mln mln
+
+24. (h05)
+ gte corp gte qtr mar shr cts cts net mln mln revs billion billion avg shrs mln mln
+
+25. (h05)
+ inc <unk> qtr sept net shr cts cts net revs mln mln avg shrs half shr cts cts <unk> revs mln mln avg shrs
+
+26. (h05)
+ ncr corp ncr qtr net shr cts cts net mln mln revs billion mln avg shrs mln mln
+
+27. (h05)
+ mead corp qtr oper shr dlrs cts mead corp qtr oper shr dlrs cts
+
+28. (h05)
+ park communications inc <unk> qtr mar shr cts cts net revs mln mln
+
+29. (h05)
+ <unk> corp ohio <unk> qtr net shr cts cts net
+
+30. (h05)
+ <unk> family <unk> <unk> qtr shr cts cts net revs mln mln nine mths shr cts cts net revs mln mln
+
+31. (h05)
+ burnham service corp <unk> qtr net shr cts cts net revs mln mln nine mths shr dlrs cts net revs mln mln
+
+32. (h05)
+ <unk> microsystems inc <unk> qtr loss shr loss cts loss cts net loss loss revs avg shrs
+
+33. (h05)
+ <unk> hall inc <unk> qtr feb net shr cts cts net revs mln mln avg shrs
+
+34. (h05)
+ roto rooter inc roto qtr net shr cts cts net revs mln mln nine mths shr cts cts net revs mln mln
+
+35. (h05)
+ rio tinto zinc corp plc pretax profit mln stg mln rio tinto zinc corp plc pretax profit mln stg mln
+
+36. (h05)
+ <unk> corp <unk> qtr sept loss shr loss cts loss cts net loss loss revs mln mln
+
+37. (h05)
+ <unk> laboratories ltd <unk> qtr net shr profit cts loss cts net profit loss revs
+
+38. (h05)
+ park communications inc <unk> qtr net shr cts cts net revs mln mln
+
+39. (h05)
+ <unk> inc <unk> qtr sept loss shr loss cts profit cts shr net loss profit revs mln mln
+
+40. (h05)
+ wells fargo qtr shr dlrs dlrs wells fargo qtr shr dlrs dlrs
+
+41. (h05)
+ uspci inc <unk> qtr net shr cts cts net revs mln mln nine mths shr cts cts net revs mln mln
+
+42. (h05)
+ <unk> corp <unk> qtr oct net shr cts cts net revs mln mln nine mths shr cts cts net revs mln mln
+
+43. (h05)
+ bancorp <unk> qtr net shr cts cts net mln mln avg shrs mln mln
+
+44. (h05)
+ abbott laboratories qtr net shr cts cts abbott laboratories qtr net shr cts cts
+
+45. (h01)
+ bildner sons inc jbil qtr shr one nil net revs
+
+46. (h05)
+ <unk> corp <unk> qtr feb net shr cts cts net revs nine mths shr cts cts net revs mln mln
+
+47. (h01)
+ spectra physics rejects ciba geigy tender offer spectra physics rejects ciba geigy tender offer
+
+48. (h05)
+ ibc acquisition gets shares tender buy pct ibc acquisition gets shares tender buy pct
+
+49. (h05)
+ <unk> computer inc <unk> qtr net shr cts cts net revs mln mln nine mths shr cts cts net mln revs mln mln
+
+50. (h05)
+ <unk> inc <unk> qtr net shr cts cts net mln revs mln mln avg shrs mln mln nine mths shr dlrs cts net mln revs mln mln avg shrs mln mln
+

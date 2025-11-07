@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h03)
+ dir
+
+02. (h03)
+ isbn
+
+03. (h03)
+ commodore cdtv
+
+04. (h00)
+ unsubscribe
+
+05. (h00)
+ unsubscribe
+
+06. (h03)
+ mhz iisi
+
+07. (h03)
+ autodesk bbs
+
+08. (h04)
+ polysyllabic polysyllabic
+
+09. (h00)
+ urn <unk>
+
+10. (h01)
+ deleted
+
+11. (h03)
+ ken
+
+12. (h03)
+ lou gehrig <unk>
+
+13. (h00)
+ exit
+
+14. (h01)
+ posted
+
+15. (h00)
+ test
+
+16. (h00)
+ test
+
+17. (h03)
+ apr <unk> ists <unk> <unk> ists
+
+18. (h00)
+ <unk> phones
+
+19. (h00)
+ dancing <unk>
+
+20. (h01)
+ ignore
+
+21. (h03)
+ david
+
+22. (h03)
+ <unk> jeremy scott noonan
+
+23. (h00)
+ dreams
+
+24. (h00)
+ cheek
+
+25. (h03)
+ compuserve com
+
+26. (h02)
+ please subscrive
+
+27. (h02)
+ please subscrive
+
+28. (h00)
+ career mattingly
+
+29. (h00)
+ bill mcd
+
+30. (h00)
+ mistake
+
+31. (h00)
+ <unk> order
+
+32. (h04)
+ consistently
+
+33. (h04)
+ ultimate <unk>
+
+34. (h03)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+35. (h03)
+ mjones donald aix kingston ibm com
+
+36. (h01)
+ wanted sips
+
+37. (h04)
+ unfortunately
+
+38. (h03)
+ italy sweden canada sweden russia italy
+
+39. (h01)
+ tell
+
+40. (h00)
+ joke
+
+41. (h04)
+ simple
+
+42. (h00)
+ caching drive
+
+43. (h00)
+ alt law enforcement
+
+44. (h01)
+ find
+
+45. (h01)
+ got <unk>
+
+46. (h00)
+ bullshit
+
+47. (h04)
+ good
+
+48. (h04)
+ inline inline correct
+
+49. (h02)
+ yes
+
+50. (h00)
+ ego trip
+

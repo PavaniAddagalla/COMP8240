@@ -1,0 +1,152 @@
+Most normal examples
+
+01. (h02)
+ <unk> industries <unk> qtr net shr cts cts net mln sales mln mln note per share figures reflect april five three stock split full year figures available
+
+02. (h02)
+ general instrument corp <unk> qtr loss ended feb shr loss dlrs profit cts net loss mln profit revs mln mln year shr loss dlrs loss dlrs net loss mln loss mln revs mln mln note includes loss mln dlrs loss mln dlrs year loss mln dlrs current qtr discontinued operations qtr includes pretax gain five mln dlrs settlement litigation tax gain mln dlrs change estimated effective tax rate
+
+03. (h02)
+ <unk> communications <unk> qtr feb loss shr loss cts net loss mln profit mln revs mln mln six mths shr loss cts net loss mln profit mln revs mln mln note company said year ago per share given comparable due certain allocations expenses turner entertainment group made subsequent periods results reflect <unk> merger agreement operations company independent agent data includes extraordinary tax loss carryforward gains dlrs qtr six mths
+
+04. (h02)
+ mays inc mays qtr july net shr profit seven cts profit cts net profit profit revs mln mln year shr profit cts loss cts net profit loss revs mln mln note year results include extraordinary credit dlrs cts per shr due utilization tax loss carryforward fiscal nonrecurring income items totaled qtr includes dlrs cts per shr extraordinary charge due <unk> utilization tax loss carryforward nonrecurring income items totaled three mths three mths nonrecurring income year included pretax gain dlrs sale company <unk> glen oaks store dec company discontinued operations unit jan nonrecurring income three months included settlement litigation gain dlrs <unk> <unk> month period also included refund prior year real estate <unk>
+
+05. (h02)
+ boston digital corp <unk> qtr net period ended april shr profit nil loss eight cts net profit loss sales year shr loss cts loss cts net loss loss sales mln mln note earnings period include provision unrealized loss marketable securities dlrs
+
+06. (h02)
+ <unk> inc <unk> qtr aug net shr cts cts net sales mln mln year shr dlrs dlrs net mln mln sales mln mln note share adjusted february three two split prior year results restated
+
+07. (h02)
+ rochester community savings bank <unk> second quarter ended may shr cts net mln six mths shr cts net note year ago per shr figures available bank converted stock ownership april quarter six mth net excludes dlrs cts share dlrs cts share respectively tax carryforwards qtr six mth net excludes dlrs dlrs respectively tax carryforwards
+
+08. (h02)
+ tri star pictures inc <unk> qtr may shr four cts four cts net revs mln mln avg shrs mln mln note company changed fiscal year december last day february thus results operations year ago period restated reflect change current first quarter includes results operations <unk> <unk> management corp tri star acquired december
+
+09. (h02)
+ <unk> inc <unk> qtr jan loss shr loss two cts profit nine cts net loss profit sales mln mln year shr profit nine cts profit cts net profit profit sales mln mln
+
+10. (h02)
+ <unk> corp <unk> qtr march net shr cts eight cts net revs year shr cts cts net revs mln note share adjusted pct stock dividend april
+
+11. (h02)
+ standard microsystems corp <unk> qtr net feb end shr profit four cts loss nil net profit loss revs mln mln avg shrs mln mln year shr profit four cts profit nil net profit profit revs mln mln avg shrs mln mln note net includes tax credits dlrs dlrs quarter dlrs dlrs year
+
+12. (h02)
+ <unk> corp <unk> qtr sept shr cts cts net mln mln revs mln mln six mths shr dlrs dlrs net mln mln revs mln mln backlog billion mln note year ago qtr six mths included net charge four cts per shr representing difference gain sale securities write certain nonrecurring costs addition six mths includes mln dlr gain sale unit one mln dlr writedown minority interest investment results qtr six mths current year include <unk> systems group formerly goodyear aerospace acquired march
+
+13. (h02)
+ allegheny <unk> corp als qtr net shr cts given net given revs mln mln nine mths shr dlrs given net mln given revs mln mln note year ago per share net income available company recapitalized december became new reporting entity financial reporting purposes
+
+14. (h02)
+ <unk> <unk> inc <unk> qtr may loss shr loss cts loss cts net loss loss sales mln mln note year ago share results adjusted five four stock split august
+
+15. (h02)
+ wang laboratories inc <unk> qtr sept shr profit cts loss cts net profit mln loss mln revs mln mln avg shrs mln mln note prior year net includes five mln dlr tax credit
+
+16. (h02)
+ <unk> inc qtr march net shr seven cts eight cts net revs mln year shr three cts one net revs mln mln
+
+17. (h02)
+ banking center tbcx qtr net shr cts net nine mths shr cts net mln note year ago per share amounts available bank converted stock ownership august amounts include operations <unk> realtors acquired december operations
+
+18. (h02)
+ petrolane partners <unk> qtr loss shr loss five cts profit six cts net loss profit nine mths shr profit dlrs profit cts net profit mln profit mln note year ago results pro forma since company created march transfer master limited partnership domestic assets petrolane inc <unk> petroleum gas division
+
+19. (h02)
+ laser photonics inc <unk> qtr dec shr loss cts loss one cts net loss loss revs mln year shr loss cts loss eight cts net loss mln loss revs mln mln
+
+20. (h02)
+ <unk> banks inc <unk> qtr net shr cts cts net mln mln note share adjusted two one split july results restated pooled acquisition third national corp december net chargeoffs mln dlrs mln dlrs assets billion dlrs pct year earlier deposits billion pct loans billion dlrs pct
+
+21. (h02)
+ <unk> aluminium ltd qtr net shr cts cts net mln mln revs billion billion avg shrs mln mln nine mths shr dlrs dlrs net mln mln revs billion billion note net current qtr included non operating costs mln income mln qtr net nine mths included non operating costs mln nine mths income mln nine mths prior year earnings per shr average number shrs outstanding restated reflect split became effective may purposes <unk> following reorganization july net figures including reported preferred dividends
+
+22. (h02)
+ hbo <unk> urges shareholders andover hbo said sent letter strongly <unk> shareholders sign proxy <unk> sent andover group march andover group two man general partnership owns seven pct hbo stock filed preliminary proxy materials securities exchange commission seeking <unk> alternative slate directors company april annual meeting andover expressed interest acquire company september hbo never received offer said addition hbo said financial condition improving rapidly result significant restructuring implemented expects company report net income cts per share significant increase year ended december company reported loss mln dlrs cts per share
+
+23. (h02)
+ health <unk> inc <unk> qtr net shr profit five cts loss four cts net profit loss revs nine mths shr loss cts loss cts net loss revs mln note nine mths includes charge dlrs exchange officer director shares junior subordinated stock shares common stock year warrant purchase shares common stock dlrs per share
+
+24. (h02)
+ northern trust <unk> net hurt brazil loans northern trust corp said first quarter earnings reduced dlrs placing mln dlrs loans brazil six mln dlrs loans ecuador cash basis loans remain nonperforming basis rest net income year cut mln dlrs bank said earlier posted net income period mln dlrs cts share mln dlrs cts share total nonperforming assets mln dlrs march mln dlrs december mln dlrs march bank said provision loan losses first quarter eight mln dlrs compared mln year ago net loan charge offs six mln dlrs mln dlrs year ago reserve loan losses mln dlrs two pct outstanding loans higher mln dlrs pct loans outstanding march
+
+25. (h02)
+ <unk> rand qtr net shr cts cts net mln mln revs mln mln avg shrs nine months shr dlrs dlrs net mln mln revs billion billion avg shrs note results reflect five two common stock split payable form stock dividend payable july results include gains retroactive adoption new accounting rules pension jan mln mln dlrs third quarter nine month periods respectively company redeemed outstanding preference stock dlrs convertible series sept
+
+26. (h02)
+ first union corp <unk> qtr net shr cts cts net mln mln note current qtr includes gain seven cts shr sale securities year ago restated
+
+27. (h02)
+ citizens financial group inc <unk> qtr shr cts cts net nine mths shr dlrs dlrs net mln mln assets billion billion note prior year amounts restated reflect stock split effective may
+
+28. (h02)
+ <unk> <unk> inc <unk> qtr march shr profit four cts loss cts net profit loss sales year shr loss cts loss cts net loss loss sales mln mln
+
+29. (h02)
+ <unk> corp <unk> qtr march net oper shr cts five cts oper net sales mln avg shrs mln mln nine mths oper shr cts cts oper net sales mln mln avg shrs mln mln note prior year net excludes extraordinary credits dlrs quarter dlrs nine mths
+
+30. (h02)
+ greater new york savings bank <unk> qtr shr cts net nine mths shr net mln mln assets billion billion note year ago per shr amts available bank converted stock ownership june qtr nine mths mln mln dlrs tax credits nine mths mln mln dlrs tax credits
+
+31. (h02)
+ <unk> electronics inc <unk> qtr net qtr ended april shr nine cts cts net revs mln mln year shr cts cts net revs mln mln
+
+32. (h02)
+ compact video inc <unk> year loss shr loss cts loss two cts net loss loss revs mln mln note results months ended dec eight months ended dec acquisition brooks drug september company change fiscal year prior year results comparable compact video explained
+
+33. (h02)
+ <unk> cos <unk> qtr feb net shr cts cts net sales mln mln avg shrs year shr two dlrs dlrs net sales mln mln avg shrs
+
+34. (h02)
+ global natural resources inc <unk> qtr loss oper shr loss five cts loss nil ope net loss loss revs mln avg shrs mln mln year oper shr profit cts loss one oper net profit loss revs mln mln avg shrs mln mln note net excludes extraordinary tax charges dlrs dlrs quarter credits dlrs dlrs year
+
+35. (h02)
+ united tote inc tote qtr april shr profit four cts profit three cts net profit profit revs mln mln six months shr profit four loss seven cts net profit loss revs mln mln note first half includes <unk> new <unk> operation
+
+36. (h02)
+ <unk> research inc <unk> qtr march shr cts four cts net sales mln year shr cts cts net sales mln mln
+
+37. (h02)
+ great country bank <unk> year may net shr cts net dlrs dlrs year shr dlrs net four mln dlrs mln dlrs assets mln dlrs mln dlrs deposits mln dlrs mln dlrs loans mln dlrs mln dlrs note company give per share earnings converted mutual savings bank stock savings bank january
+
+38. (h02)
+ <unk> corp <unk> qtr march loss oper shr loss cts profit three cts oper net loss profit revs mln mln year oper shr loss nine cts profit cts oper net loss profit revs mln mln note revenues exclude medical publishing retail operations company decided dispose fourth quarter fiscal year revenues mln dlrs mln dlrs operating results exclude discontinued operations year loss dlrs profit dlrs
+
+39. (h02)
+ aristech <unk> says qtr shr estimate right aristech chemical corp chairman chief executive officer thomas marshall said analysts estimates fiscal year earnings dlrs dlrs per share right addressing gathering analysts institutional investors marshall also said analysts estimates first qtr earnings cts cts per share <unk> marshall said full year estimates represent pct increase fiscal year net dlrs per share also said first quarter estimates pct higher first quarter net cts per share marshall <unk> first quarter earnings growth several factors including sustained demand aristech major domestic markets continued growth exports aristech plans spend approximately mln dlrs capital investments next three years marshall added
+
+40. (h02)
+ philip crosby associates inc pcro qtr net shr three cts cts net revs mln year shr cts cts net revs mln mln
+
+41. (h02)
+ universal furniture ltd <unk> qtr net shr cts cts net revs mln mln nine months shr cts cts net mln mln revs mln mln note share per share data adjusted reflect pct stock dividend <unk> april public <unk> two mln shares <unk> company june
+
+42. (h02)
+ <unk> corp <unk> qtr net primary shr cts cts diluted shr cts cts net revs mln mln primary avg shrs diluted avg shrs nine months primary shr dlrs dlrs diluted shr dlrs dlrs net mln mln revs mln mln primary avg shrs diluted avg shrs note third qtr results exclude extraordinary dlr gain termination pension plan nine month results include dlr gain june sale national <unk> supply common stock initial offering
+
+43. (h02)
+ <unk> inc <unk> qtr net shr profit seven cts net profit profit sales mln mln nine mths shr loss net loss <unk> sales mln mln note current nine month figures include extraordinary loss mln dlrs cts per share resulting costs associated restructuring prior quarter nine month per share figures applicable company began operations october acquisition <unk> inc <unk> medical products group
+
+44. (h02)
+ united cable television corp <unk> qtr net shr loss cts profit seven cts net loss profit revs mln mln avg shrs mln mln nine mths shr loss cts profit cts net loss profit revs mln mln avg shrs mln mln note current year net periods includes pretax charge seven mln dlrs increase reserve investments broadcast television entities tax credits dlrs quarter dlrs nine mths
+
+45. (h02)
+ newhall investment properties nip qtr shr dlrs cts net nine mths shr dlrs dlrs net mln mln note current quarter figures include gain mln dlrs property sales gain mln prior year quarter current nine month figures include gain mln dlrs property sales gain mln dlrs
+
+46. (h02)
+ national distillers sees second qtr gain national distillers chemical corp expects realize second quarter tax gain four dlrs per share mln dlr sale spirits business american brands inc amb national distillers stock rose opening delay new york stock exchange imbalance orders think sales price higher people expected said john henry hutton group company spokeswoman said four dlr per share gain included second quarter net compares cts per share last year including spirits wine business <unk> mln dlrs spirits wine ease interest cost burden said henry national distillers sold wine business last month grand metropolitan plc heublein inc mln dlrs henry said anticipated national distillers would net mln dlrs sale two liquor businesses henry said company recovered sales cost buying enron chemicals fourth quarter last year national distillers paid mln dlrs cash enron assumed mln dlrs debt national distillers said time bought enron would sell spirits wine businesses moving chemical area two thirds income chemicals <unk> national distillers earned excluding liquor businesses dlrs per share income discontinued operations including liquor businesses cts per share
+
+47. (h02)
+ seven oaks international inc qpon year net periods ended april shr cts cts net revs mln mln avg shrs
+
+48. (h02)
+ public service enterprise peg qtr net shr cts cts net mln mln revs one billion billion avg shrs nine months shr dlrs dlrs net mln mln revs billion billion avg shrs months shr dlrs dlrs net mln mln revs billion billion avg shrs note full name public service enterprise group inc results reflect three two stock split effective july
+
+49. (h02)
+ american cyanamid <unk> qtr net oper shr cts cts oper net mln mln sales billion mln nine mths oper shr dlrs dlrs oper net mln mln sales billion billion avg shrs mln mln note share data restated reflect pct stock dividend distributed june operating net periods excludes additional gain mln dlrs cts share associated sale <unk> brand products group business nine month operating net includes pre tax gain mln dlrs equal cts share sale <unk> <unk> businesses
+
+50. (h02)
+ gte corp gte qtr net shr cts cts net mln mln revs billion billion nine mths shr dlrs dlrs net mln mln revs billion billion note share results restated stock split january net periods includes business repositioning gains mln dlrs five cts share gains early retirement programs mln dlrs cts share nine months net also includes pre tax charge mln dlrs gte share special write sprint reduced tax net mln dlrs cts share net periods includes business repositioning gains mln dlrs cts per share
+

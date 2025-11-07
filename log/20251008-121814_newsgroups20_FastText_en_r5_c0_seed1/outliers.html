@@ -1,0 +1,69 @@
+
+    <html lang="en">
+    <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <style>
+    body {
+    font-family: Sans-Serif;
+    }
+    </style>
+    </head>
+    <body>
+    <h3>
+    Visualization of Self-Attention Weights
+    </h3>
+    </body>
+    <script>
+    var any_text = ["<unk> <unk>","<unk>","isbn","dir","commodore cdtv","unsubscribe","unsubscribe","polysyllabic polysyllabic","mhz iisi","autodesk bbs","deleted","ken","lou gehrig <unk>","apr <unk> ists <unk> <unk> ists","david","dreams","jsn jeremy scott noonan","exit","italy sweden canada sweden russia italy","dancing <unk>","posted","<unk> phones","test","test","career mattingly","mistake","ultimate <unk>","objects <unk>","pierre turgeon islanders","please subscrive","please subscrive","joke","ignore","religious fanaticism","bullshit","<unk> order","consistently","unfortunately","alt law enforcement","bill mcd","jesus peace","compuserve com","simple","alt religion spam","yes","good","ego trip","urban areas","mjones donald aix kingston ibm com","<unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david"];
+var att_heads = [0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,3,0,1,4,1,1,1,1,2,2,1,0,4,4,1,3,1,1,1,4,2,1,0,0,0,2,1,2,2,1,1,0,0];
+var trigram_weights = [[0.5, 0.5],[0.5],[0.7062197923660278],[0.6848499178886414],[0.5693158507347107, 0.4306842088699341],[0.39845892786979675],[0.39845892786979675],[0.5, 0.5],[0.31473878026008606, 0.09789445996284485],[0.14227887988090515, 0.8577211499214172],[0.5042819380760193],[0.5836181044578552],[0.6649765372276306, 0.1116744726896286, 0.1116744726896286],[0.24008117616176605, 0.08254801481962204, 0.2561374008655548, 0.08254801481962204, 0.08254801481962204, 0.2561374008655548],[0.8000474572181702],[0.9915693402290344],[0.08957184106111526, 0.43033841252326965, 0.3905179500579834, 0.08957184106111526],[0.9891498684883118],[0.18879789113998413, 0.1743377447128296, 0.13818499445915222, 0.1743377447128296, 0.13554371893405914, 0.18879789113998413],[0.6195434927940369, 0.05435093119740486],[0.9887245297431946],[0.005824094172567129, 0.9592313766479492],[0.9854804873466492],[0.9854804873466492],[0.9966800212860107, 0.0033199493773281574],[0.7309638261795044],[0.9573746919631958, 0.042625341564416885],[0.9958470463752747, 0.004152948968112469],[0.696661651134491, 0.14753541350364685, 0.008267601951956749],[0.9482090473175049, 0.017263688147068024],[0.9821189641952515, 0.01788107305765152],[0.9844340682029724],[0.9986573457717896],[0.3391633927822113, 0.6608365774154663],[0.9652220606803894],[0.008997299708425999, 0.9910026788711548],[0.9878085851669312],[0.8334208726882935],[0.0010999201331287622, 0.6086735129356384, 0.3884051442146301],[0.0029845235403627157, 0.9970154762268066],[0.9818384647369385, 0.018161559477448463],[0.8821936249732971, 0.11780636757612228],[0.9766512513160706],[0.004129818640649319, 0.8675017356872559, 0.12152944505214691],[0.8649166822433472],[0.986918032169342],[0.4189457297325134, 0.5755713582038879],[0.23627237975597382, 0.7637276649475098],[0.02333226054906845, 0.15736833214759827, 0.3627091944217682, 0.15205927193164825, 0.26338112354278564, 0.04114985093474388],[0.016290560364723206, 0.016290560364723206, 0.016290560364723206, 0.016290560364723206, 0.29018932580947876, 0.054217465221881866, 0.14826151728630066, 0.016290560364723206, 0.016290560364723206, 0.29018932580947876, 0.054217465221881866, 0.06518156081438065]];
+var example_range = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50];
+
+    var color = "255,0,0";
+    var ngram_length = 3;
+    var half_ngram = 1;
+    for (var k=0; k < any_text.length; k++) {
+    var tokens = any_text[k].split(" ");
+    var intensity = new Array(tokens.length);
+    var max_intensity = Number.MIN_SAFE_INTEGER;
+    var min_intensity = Number.MAX_SAFE_INTEGER;
+    for (var i = 0; i < intensity.length; i++) {
+    intensity[i] = 0.0;
+    for (var j = -half_ngram; j < ngram_length-half_ngram; j++) {
+    if (i+j < intensity.length && i+j > -1) {
+    intensity[i] += trigram_weights[k][i + j];
+    }
+    }
+    if (i == 0 || i == intensity.length-1) {
+    intensity[i] /= 2.0;
+    } else {
+    intensity[i] /= 3.0;
+    }
+    if (intensity[i] > max_intensity) {
+    max_intensity = intensity[i];
+    }
+    if (intensity[i] < min_intensity) {
+    min_intensity = intensity[i];
+    }
+    }
+    var denominator = max_intensity - min_intensity;
+    for (var i = 0; i < intensity.length; i++) {
+    intensity[i] = (intensity[i] - min_intensity) / denominator;
+    }
+    if (k%2 == 0) {
+    var heat_text = "<p><br><b>" + example_range[k] + ". (h" + att_heads[k] + ")</b><br>";
+    } else {
+    var heat_text = "<b>" + example_range[k] + ". (h" + att_heads[k] + ")</b><br>";
+    }
+    var space = "";
+    for (var i = 0; i < tokens.length; i++) {
+    heat_text += "<span style='background-color:rgba(" + color + "," + intensity[i] + ")'>" + space + tokens[i] + "</span>";
+    if (space == "") {
+    space = " ";
+    }
+    }
+    //heat_text += "<p>";
+    document.body.innerHTML += heat_text;
+    }
+    </script>
+    </html>

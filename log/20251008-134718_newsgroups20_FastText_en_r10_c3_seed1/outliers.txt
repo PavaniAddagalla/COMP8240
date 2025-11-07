@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ <unk> <unk>
+
+02. (h00)
+ <unk>
+
+03. (h09)
+ dir
+
+04. (h09)
+ isbn
+
+05. (h09)
+ autodesk bbs
+
+06. (h09)
+ mhz iisi
+
+07. (h09)
+ commodore cdtv
+
+08. (h09)
+ unsubscribe
+
+09. (h09)
+ unsubscribe
+
+10. (h04)
+ deleted
+
+11. (h09)
+ polysyllabic polysyllabic
+
+12. (h09)
+ lou gehrig <unk>
+
+13. (h09)
+ apr <unk> ists <unk> <unk> ists
+
+14. (h09)
+ ken
+
+15. (h03)
+ italy sweden canada sweden russia italy
+
+16. (h09)
+ david
+
+17. (h09)
+ <unk> jeremy scott noonan
+
+18. (h09)
+ pierre turgeon islanders
+
+19. (h00)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+20. (h05)
+ please subscrive
+
+21. (h05)
+ please subscrive
+
+22. (h08)
+ exit
+
+23. (h06)
+ mjones donald aix kingston ibm com
+
+24. (h09)
+ compuserve com
+
+25. (h09)
+ dreams
+
+26. (h09)
+ jesus peace
+
+27. (h04)
+ posted
+
+28. (h09)
+ bill mcd
+
+29. (h09)
+ dancing <unk>
+
+30. (h09)
+ <unk> phones
+
+31. (h09)
+ dino ciccarelli ray sheppard
+
+32. (h09)
+ ernest <unk> <unk> sage purdue edu <unk> sage <unk>
+
+33. (h09)
+ test
+
+34. (h09)
+ test
+
+35. (h01)
+ secrecy lds ceremonies clh
+
+36. (h01)
+ mistake
+
+37. (h09)
+ shut andi
+
+38. (h09)
+ objects <unk>
+
+39. (h00)
+ ignore
+
+40. (h03)
+ unfortunately
+
+41. (h09)
+ bullshit
+
+42. (h09)
+ career mattingly
+
+43. (h02)
+ world championships germany group standings munich group standings dortmund canada czech republic sweden germany russia usa switzerland finland italy norway austria france april italy russia norway germany sweden austria usa czech republic april canada switzerland russia austria finland france april sweden canada czech republic germany switzerland italy finland usa april germany france italy sweden czech republic norway april switzerland russia usa france austria canada norway finland april switzerland austria germany finland april russia sweden czech republic france canada italy usa norway april sweden switzerland finland czech republic russia canada germany usa april austria italy france norway playoffs april quarterfinals sweden usa russia germany april quarterfinals canada finland italy switzerland czech republic april relegation april semifinals may relegation bronze medal game may final
+
+44. (h09)
+ joke
+
+45. (h09)
+ alt religion spam
+
+46. (h09)
+ abolish cults
+
+47. (h04)
+ article apr csi jpl nasa gov <unk> <unk> jpl nasa gov dan <unk>
+
+48. (h02)
+ world championships germany group standings munich group standings dortmund canada czech republic russia finland sweden usa italy germany switzerland france austria norway april italy russia norway germany sweden austria usa czech republic april canada switzerland russia austria finland france april sweden canada czech republic germany switzerland italy finland usa april germany france italy sweden czech republic norway april switzerland russia usa france austria canada norway finland april switzerland austria germany finland april russia sweden czech republic france canada italy usa norway april sweden switzerland finland czech republic russia canada germany usa april austria italy france norway playoffs april quarterfinals april quarterfinals april relegation april semifinals may relegation bronze medal game may final
+
+49. (h09)
+ religious fanaticism
+
+50. (h00)
+ consistently
+

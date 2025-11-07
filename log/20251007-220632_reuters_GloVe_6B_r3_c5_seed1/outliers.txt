@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h01)
+ apr apr
+
+02. (h01)
+ apr apr
+
+03. (h01)
+ apr apr
+
+04. (h01)
+ jun jun
+
+05. (h01)
+ jun jun
+
+06. (h01)
+ oct oct
+
+07. (h01)
+ oct oct
+
+08. (h01)
+ oct oct
+
+09. (h01)
+ oct oct
+
+10. (h01)
+ oct oct
+
+11. (h01)
+ walgreen qtr shr cts cts walgreen qtr shr cts cts
+
+12. (h01)
+ ncr corp qtr shr cts cts ncr corp qtr shr cts cts
+
+13. (h01)
+ whirlpool corp qtr shr cts cts whirlpool corp qtr shr cts cts
+
+14. (h01)
+ gte corp qtr shr cts cts gte corp qtr shr cts cts
+
+15. (h01)
+ rubbermaid inc qtr shr cts cts rubbermaid inc qtr shr cts cts
+
+16. (h00)
+ trump interstate properties talks acquire alexanders trump interstate properties talks acquire alexanders
+
+17. (h00)
+ simon schuster acquire woodhead faulkner undisclosed terms simon schuster acquire woodhead faulkner undisclosed terms
+
+18. (h01)
+ mead corp qtr oper shr dlrs cts mead corp qtr oper shr dlrs cts
+
+19. (h00)
+ spectra physics rejects ciba geigy tender offer spectra physics rejects ciba geigy tender offer
+
+20. (h01)
+ westinghouse electric corp qtr shr dlrs cts westinghouse electric corp qtr shr dlrs cts
+
+21. (h00)
+ greyhound lines agrees acquire remaining routes trailways corp greyhound lines agrees acquire remaining routes trailways corp
+
+22. (h02)
+ ford raises qtly payout cts shr cts ford raises qtly payout cts shr cts
+
+23. (h01)
+ wells fargo qtr shr dlrs dlrs wells fargo qtr shr dlrs dlrs
+
+24. (h00)
+ telex corp investigate alternatives tlx partners bid may seek purchasers telex corp investigate alternatives tlx partners bid may seek purchasers
+
+25. (h01)
+ raytheon qtr shr dlrs dlrs raytheon qtr shr dlrs dlrs
+
+26. (h00)
+ circle express terminates planned acquisition overland express circle express terminates planned acquisition overland express
+
+27. (h00)
+ revlon group agrees merge macandrews forbes group dlrs shr cash revlon group agrees merge macandrews forbes group dlrs shr cash
+
+28. (h00)
+ sumita welcomes west german joint confirmation louvre accord sumita welcomes west german joint confirmation louvre accord
+
+29. (h00)
+ boeing acquire argosystems dlrs share boeing acquire argosystems dlrs share
+
+30. (h00)
+ sec charges campeau allied stores disclosure violations recent takeover sec charges campeau allied stores disclosure violations recent takeover
+
+31. (h02)
+ permian raises crude oil postings cts bbl wti dlrs permian raises crude oil postings cts bbl wti dlrs
+
+32. (h00)
+ basin pipeline texas okla border washed floods bpd crude affected basin pipeline texas okla border washed floods bpd crude affected
+
+33. (h00)
+ shipping sources say unidentified jets raid iranian oil platforms southern gulf shipping sources say unidentified jets raid iranian oil platforms southern gulf
+
+34. (h01)
+ <unk> acquire prince mln dlrs <unk> acquire prince mln dlrs
+
+35. (h01)
+ napa valley bancorp <unk> qtr net shr cts cts net
+
+36. (h01)
+ morgan inc qtr shr dlrs dlrs morgan inc qtr shr dlrs dlrs
+
+37. (h00)
+ entertainment marketing demands crazy eddie shareholder list may pursue merger entertainment marketing demands crazy eddie shareholder list may pursue merger
+
+38. (h01)
+ <unk> corp <unk> qtr mar shr cts cts net revs mln mln
+
+39. (h02)
+ marathon raises crude oil postings cts bbl wti dlrs marathon raises crude oil postings cts bbl wti dlrs
+
+40. (h01)
+ roto rooter inc roto qtr net shr cts cts net revs mln
+
+41. (h00)
+ barco directors approve buyout offer senior management barco directors approve buyout offer senior management
+
+42. (h01)
+ <unk> corp ohio <unk> qtr net shr cts cts net
+
+43. (h01)
+ abbott laboratories qtr net shr cts cts abbott laboratories qtr net shr cts cts
+
+44. (h01)
+ rio tinto zinc corp plc pretax profit mln stg mln rio tinto zinc corp plc pretax profit mln stg mln
+
+45. (h01)
+ bancorp <unk> qtr net shr cts cts net mln mln avg shrs mln mln
+
+46. (h02)
+ petro canada raises crude postings cts canadian bbl sweet crude dlrs canadian bbl petro canada raises crude postings cts canadian bbl sweet crude dlrs canadian bbl
+
+47. (h01)
+ <unk> corp <unk> qtr net shr cts cts net mln mln revs mln mln
+
+48. (h01)
+ <unk> corp <unk> qtr net shr dlrs dlr net
+
+49. (h00)
+ thomson grand public takes thorn emi audiovisual division thomson thomson grand public takes thorn emi audiovisual division thomson
+
+50. (h01)
+ <unk> bancorp inc <unk> qtr net shr dlrs dlrs net avg shrs
+

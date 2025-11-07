@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ apr apr
+
+02. (h00)
+ apr apr
+
+03. (h00)
+ apr apr
+
+04. (h00)
+ walgreen qtr shr cts cts walgreen qtr shr cts cts
+
+05. (h00)
+ oct oct
+
+06. (h00)
+ oct oct
+
+07. (h00)
+ oct oct
+
+08. (h00)
+ oct oct
+
+09. (h00)
+ oct oct
+
+10. (h02)
+ jun jun
+
+11. (h02)
+ jun jun
+
+12. (h01)
+ gte corp qtr shr cts cts gte corp qtr shr cts cts
+
+13. (h00)
+ rubbermaid inc qtr shr cts cts rubbermaid inc qtr shr cts cts
+
+14. (h01)
+ ncr corp qtr shr cts cts ncr corp qtr shr cts cts
+
+15. (h01)
+ whirlpool corp qtr shr cts cts whirlpool corp qtr shr cts cts
+
+16. (h00)
+ roto rooter inc roto qtr net shr cts cts net revs mln
+
+17. (h00)
+ <unk> corp <unk> qtr mar shr cts cts net revs mln mln
+
+18. (h00)
+ napa valley bancorp <unk> qtr net shr cts cts net
+
+19. (h00)
+ tandy corp <unk> qtr sept net shr cts cts net mln mln revs mln mln avg shrs mln mln
+
+20. (h00)
+ bancorp <unk> qtr net shr cts cts net mln mln avg shrs mln mln
+
+21. (h00)
+ <unk> corp <unk> qtr sept net shr cts cts net revs mln mln avg shrs mln mln
+
+22. (h00)
+ westinghouse electric corp qtr shr dlrs cts westinghouse electric corp qtr shr dlrs cts
+
+23. (h00)
+ <unk> corp <unk> qtr net shr cts cts net mln mln revs mln mln
+
+24. (h00)
+ raytheon qtr shr dlrs dlrs raytheon qtr shr dlrs dlrs
+
+25. (h00)
+ gte corp gte qtr mar shr cts cts net mln mln revs billion billion avg shrs mln mln
+
+26. (h00)
+ abbott laboratories qtr net shr cts cts abbott laboratories qtr net shr cts cts
+
+27. (h00)
+ ncr corp ncr qtr net shr cts cts net mln mln revs billion mln avg shrs mln mln
+
+28. (h00)
+ ford raises qtly payout cts shr cts ford raises qtly payout cts shr cts
+
+29. (h00)
+ <unk> microsystems inc <unk> qtr loss shr loss cts loss cts net loss loss revs avg shrs
+
+30. (h00)
+ mead corp qtr oper shr dlrs cts mead corp qtr oper shr dlrs cts
+
+31. (h00)
+ <unk> corp ohio <unk> qtr net shr cts cts net
+
+32. (h00)
+ afg industries inc afg qtr net shr primary cts cts shr diluted cts cts net revs mln mln avg shrs primary
+
+33. (h00)
+ <unk> corp <unk> qtr sept loss shr loss cts loss cts net loss loss revs mln mln
+
+34. (h00)
+ <unk> bancorp inc <unk> qtr net shr dlrs dlrs net avg shrs
+
+35. (h00)
+ <unk> corp <unk> qtr net shr cts cts net loans mln mln deposits mln mln assets mln mln
+
+36. (h00)
+ <unk> <unk> inc qtr net shr cts cts net revs mln mln note pct owned <unk> corp <unk>
+
+37. (h00)
+ <unk> industries inc fit qtr feb net shr cts cts net revs mln mln
+
+38. (h00)
+ rowe furniture corp rowe qtr feb shr cts cts net revs mln mln
+
+39. (h02)
+ trump interstate properties talks acquire alexanders trump interstate properties talks acquire alexanders
+
+40. (h00)
+ wells fargo qtr shr dlrs dlrs wells fargo qtr shr dlrs dlrs
+
+41. (h00)
+ <unk> bancorp <unk> qtr net shr cts cts net loans mln mln deposits billion mln assets billion billion
+
+42. (h00)
+ <unk> hall inc <unk> qtr feb net shr cts cts net revs mln mln avg shrs
+
+43. (h00)
+ <unk> <unk> <unk> qtr net shr cts cts net sales mln mln avg shrs
+
+44. (h00)
+ <unk> sciences inc <unk> qtr shr cts cts net sales mln backlog mln mln
+
+45. (h00)
+ <unk> inc <unk> qtr sept loss shr loss cts profit cts shr net loss profit revs mln mln
+
+46. (h00)
+ deposit guaranty corp <unk> qtr net shr dlrs dlrs shr diluted dlrs dlrs net
+
+47. (h00)
+ rubbermaid inc <unk> qtr net shr cts cts net mln mln sales mln mln
+
+48. (h00)
+ independent bank corp <unk> qtr net shr cts shr cts net
+
+49. (h00)
+ <unk> inc <unk> qtr sept net shr cts cts net sales mln mln avg shrs mln mln
+
+50. (h00)
+ <unk> corp <unk> qtr net shr dlrs dlr net
+

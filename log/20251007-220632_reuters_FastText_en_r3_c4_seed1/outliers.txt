@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ jun jun
+
+02. (h00)
+ jun jun
+
+03. (h00)
+ walgreen qtr shr cts cts walgreen qtr shr cts cts
+
+04. (h00)
+ oct oct
+
+05. (h00)
+ oct oct
+
+06. (h00)
+ oct oct
+
+07. (h00)
+ oct oct
+
+08. (h00)
+ oct oct
+
+09. (h00)
+ apr apr
+
+10. (h00)
+ apr apr
+
+11. (h00)
+ apr apr
+
+12. (h00)
+ raytheon qtr shr dlrs dlrs raytheon qtr shr dlrs dlrs
+
+13. (h00)
+ rubbermaid inc qtr shr cts cts rubbermaid inc qtr shr cts cts
+
+14. (h00)
+ ncr corp qtr shr cts cts ncr corp qtr shr cts cts
+
+15. (h00)
+ mead corp qtr oper shr dlrs cts mead corp qtr oper shr dlrs cts
+
+16. (h00)
+ gte corp qtr shr cts cts gte corp qtr shr cts cts
+
+17. (h00)
+ morgan inc qtr shr dlrs dlrs morgan inc qtr shr dlrs dlrs
+
+18. (h00)
+ wells fargo qtr shr dlrs dlrs wells fargo qtr shr dlrs dlrs
+
+19. (h00)
+ bancorp <unk> qtr net shr cts cts net mln mln avg shrs mln mln
+
+20. (h00)
+ <unk> bancorp inc <unk> qtr net shr dlrs dlrs net avg shrs
+
+21. (h00)
+ whirlpool corp qtr shr cts cts whirlpool corp qtr shr cts cts
+
+22. (h02)
+ spectra physics rejects ciba geigy tender offer spectra physics rejects ciba geigy tender offer
+
+23. (h00)
+ napa valley bancorp <unk> qtr net shr cts cts net
+
+24. (h00)
+ ncr corp ncr qtr net shr cts cts net mln mln revs billion mln avg shrs mln mln
+
+25. (h00)
+ <unk> acquire prince mln dlrs <unk> acquire prince mln dlrs
+
+26. (h00)
+ westinghouse electric corp qtr shr dlrs cts westinghouse electric corp qtr shr dlrs cts
+
+27. (h02)
+ cable wireless merge two units new telecommunication operation cable wireless merge two units new telecommunication operation
+
+28. (h00)
+ <unk> microsystems inc <unk> qtr loss shr loss cts loss cts net loss loss revs avg shrs
+
+29. (h00)
+ roto rooter inc roto qtr net shr cts cts net revs mln
+
+30. (h00)
+ <unk> corp <unk> qtr net shr dlrs dlr net
+
+31. (h00)
+ ohio <unk> <unk> qtr net shr cts cts net mln mln revs mln mln avg shrs mln mln mths shr dlrs dlrs net mln mln revs billion billion avg shrs mln mln
+
+32. (h00)
+ raytheon <unk> qtr net shr dlrs dlrs net mln mln revs billion billion avg shrs mln mln
+
+33. (h00)
+ marathon raises crude oil postings cts bbl wti dlrs marathon raises crude oil postings cts bbl wti dlrs
+
+34. (h00)
+ <unk> corp ohio <unk> qtr net shr cts cts net
+
+35. (h00)
+ star <unk> inc <unk> qtr march net shr three cts two cts net rev avg shrs
+
+36. (h00)
+ general electric qtr shr dlrs dlrs general electric qtr shr dlrs dlrs
+
+37. (h00)
+ john <unk> qtr net shr cts cts net mln revs mln mln
+
+38. (h00)
+ <unk> corp <unk> qtr net shr cts cts net mln mln revs mln mln
+
+39. (h00)
+ tandy corp <unk> qtr sept net shr cts cts net mln mln revs mln mln avg shrs mln mln
+
+40. (h00)
+ boeing acquire argosystems dlrs share boeing acquire argosystems dlrs share
+
+41. (h02)
+ circle express terminates planned acquisition overland express circle express terminates planned acquisition overland express
+
+42. (h00)
+ <unk> corp <unk> qtr sept net shr cts cts net revs mln mln avg shrs mln mln
+
+43. (h02)
+ <unk> oil gas ltd <unk> qtr net shr three cts three cts net revs avg shrs
+
+44. (h00)
+ abbott laboratories qtr net shr cts cts abbott laboratories qtr net shr cts cts
+
+45. (h02)
+ simon schuster acquire woodhead faulkner undisclosed terms simon schuster acquire woodhead faulkner undisclosed terms
+
+46. (h02)
+ ibc acquisition gets shares tender buy pct ibc acquisition gets shares tender buy pct
+
+47. (h00)
+ united telecommunications inc qtr shr cts cts united telecommunications inc qtr shr cts cts
+
+48. (h00)
+ <unk> corp <unk> qtr mar shr cts cts net revs mln mln
+
+49. (h00)
+ <unk> <unk> inc qtr net shr cts cts net revs mln mln avg shrs six mths shr cts cts net revs mln mln avg shrs
+
+50. (h00)
+ ford raises qtly payout cts shr cts ford raises qtly payout cts shr cts
+

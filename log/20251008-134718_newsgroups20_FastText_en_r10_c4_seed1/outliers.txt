@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h03)
+ dir
+
+02. (h06)
+ isbn
+
+03. (h00)
+ mhz iisi
+
+04. (h08)
+ commodore cdtv
+
+05. (h03)
+ autodesk bbs
+
+06. (h08)
+ unsubscribe
+
+07. (h08)
+ unsubscribe
+
+08. (h03)
+ urn <unk>
+
+09. (h00)
+ lou gehrig <unk>
+
+10. (h01)
+ polysyllabic polysyllabic
+
+11. (h06)
+ deleted
+
+12. (h08)
+ ken
+
+13. (h00)
+ <unk> jeremy scott noonan
+
+14. (h00)
+ david
+
+15. (h05)
+ apr <unk> ists <unk> <unk> ists
+
+16. (h02)
+ italy sweden canada sweden russia italy
+
+17. (h09)
+ mjones donald aix kingston ibm com
+
+18. (h02)
+ pierre turgeon islanders
+
+19. (h08)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+20. (h08)
+ compuserve com
+
+21. (h00)
+ dino ciccarelli ray sheppard
+
+22. (h09)
+ <unk> phones
+
+23. (h09)
+ exit
+
+24. (h08)
+ bill mcd
+
+25. (h02)
+ ernest <unk> <unk> sage purdue edu <unk> sage <unk>
+
+26. (h01)
+ dancing <unk>
+
+27. (h05)
+ test
+
+28. (h05)
+ test
+
+29. (h00)
+ dreams
+
+30. (h06)
+ posted
+
+31. (h07)
+ please subscrive
+
+32. (h07)
+ please subscrive
+
+33. (h02)
+ jesus peace
+
+34. (h07)
+ cheek
+
+35. (h09)
+ career mattingly
+
+36. (h00)
+ xli xloadimage imagemagick export lcs mit edu contrib
+
+37. (h08)
+ shut andi
+
+38. (h09)
+ comp graphics faq
+
+39. (h00)
+ objects ufos
+
+40. (h08)
+ caching drive
+
+41. (h09)
+ liar cheat demagogue
+
+42. (h03)
+ secrecy lds ceremonies clh
+
+43. (h09)
+ <unk> order
+
+44. (h06)
+ mistake
+
+45. (h01)
+ ultimate <unk>
+
+46. (h00)
+ <unk> <unk> project arizona
+
+47. (h09)
+ religious fanaticism
+
+48. (h02)
+ fox <unk> dave feustel nmyi feustel netcom com
+
+49. (h07)
+ fuhr rings <unk> errey bob rings
+
+50. (h05)
+ ignore
+

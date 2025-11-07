@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h02)
+ jun jun
+
+02. (h02)
+ jun jun
+
+03. (h03)
+ walgreen qtr shr cts cts walgreen qtr shr cts cts
+
+04. (h03)
+ apr apr
+
+05. (h03)
+ apr apr
+
+06. (h03)
+ apr apr
+
+07. (h00)
+ oct oct
+
+08. (h00)
+ oct oct
+
+09. (h00)
+ oct oct
+
+10. (h00)
+ oct oct
+
+11. (h00)
+ oct oct
+
+12. (h03)
+ rubbermaid inc qtr shr cts cts rubbermaid inc qtr shr cts cts
+
+13. (h03)
+ ncr corp qtr shr cts cts ncr corp qtr shr cts cts
+
+14. (h03)
+ raytheon qtr shr dlrs dlrs raytheon qtr shr dlrs dlrs
+
+15. (h03)
+ gte corp qtr shr cts cts gte corp qtr shr cts cts
+
+16. (h03)
+ abbott laboratories qtr net shr cts cts abbott laboratories qtr net shr cts cts
+
+17. (h03)
+ whirlpool corp qtr shr cts cts whirlpool corp qtr shr cts cts
+
+18. (h03)
+ wells fargo qtr shr dlrs dlrs wells fargo qtr shr dlrs dlrs
+
+19. (h03)
+ mead corp qtr oper shr dlrs cts mead corp qtr oper shr dlrs cts
+
+20. (h03)
+ morgan inc qtr shr dlrs dlrs morgan inc qtr shr dlrs dlrs
+
+21. (h00)
+ bancorp <unk> qtr net shr cts cts net mln mln avg shrs mln mln
+
+22. (h03)
+ <unk> corp <unk> qtr net shr dlrs dlr net
+
+23. (h03)
+ <unk> corp ohio <unk> qtr net shr cts cts net
+
+24. (h03)
+ roto rooter inc roto qtr net shr cts cts net revs mln
+
+25. (h00)
+ napa valley bancorp <unk> qtr net shr cts cts net
+
+26. (h03)
+ <unk> bancorp inc <unk> qtr net shr dlrs dlrs net avg shrs
+
+27. (h03)
+ westinghouse electric corp qtr shr dlrs cts westinghouse electric corp qtr shr dlrs cts
+
+28. (h03)
+ abbott laboratories inc <unk> qtr net shr cts cts net mln mln sales billion mln
+
+29. (h03)
+ <unk> corp <unk> qtr net shr cts cts net mln mln revs mln mln
+
+30. (h03)
+ john <unk> qtr net shr cts cts net mln revs mln mln
+
+31. (h00)
+ <unk> <unk> <unk> qtr net shr cts cts net sales mln mln avg shrs
+
+32. (h03)
+ ncr corp ncr qtr net shr cts cts net mln mln revs billion mln avg shrs mln mln
+
+33. (h03)
+ corby distilleries ltd buy heublein <unk> distillers mln canadian dlrs corby distilleries ltd buy heublein <unk> distillers mln canadian dlrs
+
+34. (h03)
+ <unk> corp <unk> qtr sept net shr cts cts net revs mln mln avg shrs mln mln
+
+35. (h03)
+ <unk> corp <unk> qtr net shr cts cts net sales mln mln
+
+36. (h03)
+ tandy corp <unk> qtr sept net shr cts cts net mln mln revs mln mln avg shrs mln mln
+
+37. (h00)
+ rubbermaid inc <unk> qtr net shr cts cts net mln mln sales mln mln
+
+38. (h03)
+ united telecommunications inc qtr shr cts cts united telecommunications inc qtr shr cts cts
+
+39. (h03)
+ <unk> corp <unk> qtr net shr cts cts net mln mln sales mln mln
+
+40. (h03)
+ merrill corp <unk> qtr april net shr cts cts net revs mln mln avg shrs
+
+41. (h03)
+ barnett banks florida inc <unk> qtr net shr cts cts net mln mln avg shrs mln mln
+
+42. (h00)
+ raytheon <unk> qtr net shr dlrs dlrs net mln mln revs billion billion avg shrs mln mln
+
+43. (h00)
+ ohio <unk> <unk> qtr net shr cts cts net mln mln revs mln mln avg shrs mln mln mths shr dlrs dlrs net mln mln revs billion billion avg shrs mln mln
+
+44. (h03)
+ rio tinto zinc corp plc pretax profit mln stg mln rio tinto zinc corp plc pretax profit mln stg mln
+
+45. (h00)
+ boeing acquire argosystems dlrs share boeing acquire argosystems dlrs share
+
+46. (h00)
+ <unk> inc <unk> qtr sept net shr cts cts net sales mln mln avg shrs mln mln
+
+47. (h00)
+ southern national corp <unk> qtr net shr cts cts net
+
+48. (h00)
+ westport bancorp inc <unk> qtr net shr cts cts net nine mths shr cts dlrs net
+
+49. (h03)
+ whirlpool corp <unk> qtr net shr cts cts net sales mln mln avg shrs
+
+50. (h00)
+ <unk> bancorp <unk> qtr net shr cts cts net nine mths shr dlrs dlrs net mln mln
+

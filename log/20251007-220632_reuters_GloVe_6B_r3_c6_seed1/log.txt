@@ -1,0 +1,139 @@
+2025-10-07 22:13:13,895 - root - INFO - Log file is ../log/20251007-220632_reuters_GloVe_6B_r3_c6_seed1/log.txt.
+2025-10-07 22:13:13,895 - root - INFO - Data path is ../data.
+2025-10-07 22:13:13,895 - root - INFO - Export path is ../log/20251007-220632_reuters_GloVe_6B_r3_c6_seed1.
+2025-10-07 22:13:13,895 - root - INFO - Dataset: reuters
+2025-10-07 22:13:13,895 - root - INFO - Normal class: 6
+2025-10-07 22:13:13,895 - root - INFO - Network: cvdd_Net
+2025-10-07 22:13:13,895 - root - INFO - Tokenizer: spacy
+2025-10-07 22:13:13,895 - root - INFO - Clean text in pre-processing: True
+2025-10-07 22:13:13,895 - root - INFO - Word vector embedding size: 300
+2025-10-07 22:13:13,895 - root - INFO - Load pre-trained model: GloVe_6B
+2025-10-07 22:13:13,895 - root - INFO - Anomaly Score: context_best
+2025-10-07 22:13:13,895 - root - INFO - Number of attention heads: 3
+2025-10-07 22:13:13,895 - root - INFO - Attention size: 150
+2025-10-07 22:13:13,895 - root - INFO - Orthogonality regularization hyperparameter: 1.000
+2025-10-07 22:13:13,895 - root - INFO - Temperature alpha annealing strategy: logarithmic
+2025-10-07 22:13:13,897 - root - INFO - Set seed to 1.
+2025-10-07 22:13:13,897 - root - INFO - Computation device: mps
+2025-10-07 22:13:13,897 - root - INFO - Number of dataloader workers: 0
+2025-10-07 22:13:41,686 - torchnlp.word_to_vector.pretrained_word_vectors - INFO - Loading vectors from ../data/word_vectors_cache/glove.6B.300d.txt.pt
+2025-10-07 22:13:41,973 - root - INFO - Initialize context vectors...
+2025-10-07 22:13:42,185 - root - INFO - Context vectors initialized.
+2025-10-07 22:13:42,671 - root - INFO - Starting training...
+2025-10-07 22:13:42,924 - root - INFO - | Epoch: 001/100 | Train Time: 0.252s | Train Loss: 0.638284 |
+2025-10-07 22:13:42,935 - root - INFO - | Epoch: 002/100 | Train Time: 0.011s | Train Loss: 0.458119 |
+2025-10-07 22:13:42,947 - root - INFO - | Epoch: 003/100 | Train Time: 0.011s | Train Loss: 0.364162 |
+2025-10-07 22:13:42,958 - root - INFO - | Epoch: 004/100 | Train Time: 0.011s | Train Loss: 0.305684 |
+2025-10-07 22:13:42,968 - root - INFO - | Epoch: 005/100 | Train Time: 0.010s | Train Loss: 0.264608 |
+2025-10-07 22:13:42,975 - root - INFO - | Epoch: 006/100 | Train Time: 0.007s | Train Loss: 0.232018 |
+2025-10-07 22:13:42,982 - root - INFO - | Epoch: 007/100 | Train Time: 0.007s | Train Loss: 0.206077 |
+2025-10-07 22:13:42,993 - root - INFO - | Epoch: 008/100 | Train Time: 0.010s | Train Loss: 0.190966 |
+2025-10-07 22:13:43,002 - root - INFO - | Epoch: 009/100 | Train Time: 0.009s | Train Loss: 0.187705 |
+2025-10-07 22:13:43,008 - root - INFO - | Epoch: 010/100 | Train Time: 0.007s | Train Loss: 0.192144 |
+2025-10-07 22:13:43,016 - root - INFO - | Epoch: 011/100 | Train Time: 0.007s | Train Loss: 0.193890 |
+2025-10-07 22:13:43,024 - root - INFO - | Epoch: 012/100 | Train Time: 0.008s | Train Loss: 0.187653 |
+2025-10-07 22:13:43,036 - root - INFO - | Epoch: 013/100 | Train Time: 0.011s | Train Loss: 0.176996 |
+2025-10-07 22:13:43,045 - root - INFO - | Epoch: 014/100 | Train Time: 0.009s | Train Loss: 0.165735 |
+2025-10-07 22:13:43,060 - root - INFO - | Epoch: 015/100 | Train Time: 0.010s | Train Loss: 0.156729 |
+2025-10-07 22:13:43,071 - root - INFO - | Epoch: 016/100 | Train Time: 0.011s | Train Loss: 0.151561 |
+2025-10-07 22:13:43,082 - root - INFO - | Epoch: 017/100 | Train Time: 0.011s | Train Loss: 0.147879 |
+2025-10-07 22:13:43,092 - root - INFO - | Epoch: 018/100 | Train Time: 0.010s | Train Loss: 0.144136 |
+2025-10-07 22:13:43,103 - root - INFO - | Epoch: 019/100 | Train Time: 0.011s | Train Loss: 0.139239 |
+2025-10-07 22:13:43,114 - root - INFO - | Epoch: 020/100 | Train Time: 0.010s | Train Loss: 0.134324 |
+2025-10-07 22:13:43,114 - root - INFO -   Temperature alpha scheduler: new alpha is 0.0001
+2025-10-07 22:13:43,124 - root - INFO - | Epoch: 021/100 | Train Time: 0.010s | Train Loss: 0.128657 |
+2025-10-07 22:13:43,135 - root - INFO - | Epoch: 022/100 | Train Time: 0.011s | Train Loss: 0.124797 |
+2025-10-07 22:13:43,146 - root - INFO - | Epoch: 023/100 | Train Time: 0.011s | Train Loss: 0.121183 |
+2025-10-07 22:13:43,157 - root - INFO - | Epoch: 024/100 | Train Time: 0.011s | Train Loss: 0.119311 |
+2025-10-07 22:13:43,168 - root - INFO - | Epoch: 025/100 | Train Time: 0.011s | Train Loss: 0.118534 |
+2025-10-07 22:13:43,179 - root - INFO - | Epoch: 026/100 | Train Time: 0.011s | Train Loss: 0.117040 |
+2025-10-07 22:13:43,190 - root - INFO - | Epoch: 027/100 | Train Time: 0.011s | Train Loss: 0.115861 |
+2025-10-07 22:13:43,201 - root - INFO - | Epoch: 028/100 | Train Time: 0.011s | Train Loss: 0.113719 |
+2025-10-07 22:13:43,212 - root - INFO - | Epoch: 029/100 | Train Time: 0.011s | Train Loss: 0.111288 |
+2025-10-07 22:13:43,223 - root - INFO - | Epoch: 030/100 | Train Time: 0.011s | Train Loss: 0.108425 |
+2025-10-07 22:13:43,233 - root - INFO - | Epoch: 031/100 | Train Time: 0.010s | Train Loss: 0.106102 |
+2025-10-07 22:13:43,244 - root - INFO - | Epoch: 032/100 | Train Time: 0.010s | Train Loss: 0.104277 |
+2025-10-07 22:13:43,255 - root - INFO - | Epoch: 033/100 | Train Time: 0.011s | Train Loss: 0.102088 |
+2025-10-07 22:13:43,266 - root - INFO - | Epoch: 034/100 | Train Time: 0.011s | Train Loss: 0.099895 |
+2025-10-07 22:13:43,278 - root - INFO - | Epoch: 035/100 | Train Time: 0.011s | Train Loss: 0.097347 |
+2025-10-07 22:13:43,289 - root - INFO - | Epoch: 036/100 | Train Time: 0.011s | Train Loss: 0.095700 |
+2025-10-07 22:13:43,301 - root - INFO - | Epoch: 037/100 | Train Time: 0.012s | Train Loss: 0.093712 |
+2025-10-07 22:13:43,312 - root - INFO - | Epoch: 038/100 | Train Time: 0.011s | Train Loss: 0.091959 |
+2025-10-07 22:13:43,323 - root - INFO - | Epoch: 039/100 | Train Time: 0.011s | Train Loss: 0.090534 |
+2025-10-07 22:13:43,334 - root - INFO - | Epoch: 040/100 | Train Time: 0.010s | Train Loss: 0.088887 |
+2025-10-07 22:13:43,334 - root - INFO -   LR scheduler: new learning rate is 0.001
+2025-10-07 22:13:43,334 - root - INFO -   Temperature alpha scheduler: new alpha is 0.001
+2025-10-07 22:13:43,345 - root - INFO - | Epoch: 041/100 | Train Time: 0.010s | Train Loss: 0.088751 |
+2025-10-07 22:13:43,356 - root - INFO - | Epoch: 042/100 | Train Time: 0.011s | Train Loss: 0.088579 |
+2025-10-07 22:13:43,366 - root - INFO - | Epoch: 043/100 | Train Time: 0.010s | Train Loss: 0.088374 |
+2025-10-07 22:13:43,377 - root - INFO - | Epoch: 044/100 | Train Time: 0.010s | Train Loss: 0.088605 |
+2025-10-07 22:13:43,387 - root - INFO - | Epoch: 045/100 | Train Time: 0.011s | Train Loss: 0.087894 |
+2025-10-07 22:13:43,398 - root - INFO - | Epoch: 046/100 | Train Time: 0.011s | Train Loss: 0.087633 |
+2025-10-07 22:13:43,409 - root - INFO - | Epoch: 047/100 | Train Time: 0.011s | Train Loss: 0.087365 |
+2025-10-07 22:13:43,420 - root - INFO - | Epoch: 048/100 | Train Time: 0.011s | Train Loss: 0.087098 |
+2025-10-07 22:13:43,432 - root - INFO - | Epoch: 049/100 | Train Time: 0.011s | Train Loss: 0.086834 |
+2025-10-07 22:13:43,443 - root - INFO - | Epoch: 050/100 | Train Time: 0.011s | Train Loss: 0.087040 |
+2025-10-07 22:13:43,455 - root - INFO - | Epoch: 051/100 | Train Time: 0.012s | Train Loss: 0.086792 |
+2025-10-07 22:13:43,466 - root - INFO - | Epoch: 052/100 | Train Time: 0.011s | Train Loss: 0.086552 |
+2025-10-07 22:13:43,477 - root - INFO - | Epoch: 053/100 | Train Time: 0.011s | Train Loss: 0.085857 |
+2025-10-07 22:13:43,487 - root - INFO - | Epoch: 054/100 | Train Time: 0.010s | Train Loss: 0.085636 |
+2025-10-07 22:13:43,498 - root - INFO - | Epoch: 055/100 | Train Time: 0.011s | Train Loss: 0.085888 |
+2025-10-07 22:13:43,509 - root - INFO - | Epoch: 056/100 | Train Time: 0.011s | Train Loss: 0.085682 |
+2025-10-07 22:13:43,520 - root - INFO - | Epoch: 057/100 | Train Time: 0.011s | Train Loss: 0.085016 |
+2025-10-07 22:13:43,530 - root - INFO - | Epoch: 058/100 | Train Time: 0.011s | Train Loss: 0.084820 |
+2025-10-07 22:13:43,541 - root - INFO - | Epoch: 059/100 | Train Time: 0.010s | Train Loss: 0.084628 |
+2025-10-07 22:13:43,552 - root - INFO - | Epoch: 060/100 | Train Time: 0.011s | Train Loss: 0.084439 |
+2025-10-07 22:13:43,552 - root - INFO -   Temperature alpha scheduler: new alpha is 0.01
+2025-10-07 22:13:43,564 - root - INFO - | Epoch: 061/100 | Train Time: 0.012s | Train Loss: 0.084232 |
+2025-10-07 22:13:43,575 - root - INFO - | Epoch: 062/100 | Train Time: 0.011s | Train Loss: 0.084517 |
+2025-10-07 22:13:43,586 - root - INFO - | Epoch: 063/100 | Train Time: 0.011s | Train Loss: 0.083865 |
+2025-10-07 22:13:43,597 - root - INFO - | Epoch: 064/100 | Train Time: 0.011s | Train Loss: 0.083685 |
+2025-10-07 22:13:43,608 - root - INFO - | Epoch: 065/100 | Train Time: 0.011s | Train Loss: 0.083977 |
+2025-10-07 22:13:43,620 - root - INFO - | Epoch: 066/100 | Train Time: 0.011s | Train Loss: 0.083330 |
+2025-10-07 22:13:43,631 - root - INFO - | Epoch: 067/100 | Train Time: 0.011s | Train Loss: 0.083630 |
+2025-10-07 22:13:43,643 - root - INFO - | Epoch: 068/100 | Train Time: 0.011s | Train Loss: 0.082987 |
+2025-10-07 22:13:43,654 - root - INFO - | Epoch: 069/100 | Train Time: 0.011s | Train Loss: 0.083295 |
+2025-10-07 22:13:43,665 - root - INFO - | Epoch: 070/100 | Train Time: 0.011s | Train Loss: 0.083133 |
+2025-10-07 22:13:43,675 - root - INFO - | Epoch: 071/100 | Train Time: 0.011s | Train Loss: 0.082974 |
+2025-10-07 22:13:43,686 - root - INFO - | Epoch: 072/100 | Train Time: 0.011s | Train Loss: 0.082345 |
+2025-10-07 22:13:43,697 - root - INFO - | Epoch: 073/100 | Train Time: 0.011s | Train Loss: 0.082193 |
+2025-10-07 22:13:43,707 - root - INFO - | Epoch: 074/100 | Train Time: 0.011s | Train Loss: 0.082522 |
+2025-10-07 22:13:43,718 - root - INFO - | Epoch: 075/100 | Train Time: 0.011s | Train Loss: 0.082378 |
+2025-10-07 22:13:43,729 - root - INFO - | Epoch: 076/100 | Train Time: 0.011s | Train Loss: 0.082238 |
+2025-10-07 22:13:43,740 - root - INFO - | Epoch: 077/100 | Train Time: 0.011s | Train Loss: 0.082099 |
+2025-10-07 22:13:43,751 - root - INFO - | Epoch: 078/100 | Train Time: 0.011s | Train Loss: 0.081964 |
+2025-10-07 22:13:43,763 - root - INFO - | Epoch: 079/100 | Train Time: 0.011s | Train Loss: 0.081830 |
+2025-10-07 22:13:43,774 - root - INFO - | Epoch: 080/100 | Train Time: 0.011s | Train Loss: 0.081698 |
+2025-10-07 22:13:43,774 - root - INFO -   Temperature alpha scheduler: new alpha is 0.1
+2025-10-07 22:13:43,785 - root - INFO - | Epoch: 081/100 | Train Time: 0.011s | Train Loss: 0.080891 |
+2025-10-07 22:13:43,797 - root - INFO - | Epoch: 082/100 | Train Time: 0.011s | Train Loss: 0.081237 |
+2025-10-07 22:13:43,808 - root - INFO - | Epoch: 083/100 | Train Time: 0.011s | Train Loss: 0.080636 |
+2025-10-07 22:13:43,819 - root - INFO - | Epoch: 084/100 | Train Time: 0.011s | Train Loss: 0.080510 |
+2025-10-07 22:13:43,830 - root - INFO - | Epoch: 085/100 | Train Time: 0.011s | Train Loss: 0.080385 |
+2025-10-07 22:13:43,840 - root - INFO - | Epoch: 086/100 | Train Time: 0.011s | Train Loss: 0.080261 |
+2025-10-07 22:13:43,851 - root - INFO - | Epoch: 087/100 | Train Time: 0.011s | Train Loss: 0.080138 |
+2025-10-07 22:13:43,862 - root - INFO - | Epoch: 088/100 | Train Time: 0.011s | Train Loss: 0.080493 |
+2025-10-07 22:13:43,873 - root - INFO - | Epoch: 089/100 | Train Time: 0.011s | Train Loss: 0.079896 |
+2025-10-07 22:13:43,884 - root - INFO - | Epoch: 090/100 | Train Time: 0.011s | Train Loss: 0.080256 |
+2025-10-07 22:13:43,895 - root - INFO - | Epoch: 091/100 | Train Time: 0.011s | Train Loss: 0.079660 |
+2025-10-07 22:13:43,906 - root - INFO - | Epoch: 092/100 | Train Time: 0.011s | Train Loss: 0.079543 |
+2025-10-07 22:13:43,918 - root - INFO - | Epoch: 093/100 | Train Time: 0.011s | Train Loss: 0.079909 |
+2025-10-07 22:13:43,929 - root - INFO - | Epoch: 094/100 | Train Time: 0.011s | Train Loss: 0.079796 |
+2025-10-07 22:13:43,940 - root - INFO - | Epoch: 095/100 | Train Time: 0.011s | Train Loss: 0.079203 |
+2025-10-07 22:13:43,951 - root - INFO - | Epoch: 096/100 | Train Time: 0.011s | Train Loss: 0.079092 |
+2025-10-07 22:13:43,961 - root - INFO - | Epoch: 097/100 | Train Time: 0.011s | Train Loss: 0.079465 |
+2025-10-07 22:13:43,972 - root - INFO - | Epoch: 098/100 | Train Time: 0.011s | Train Loss: 0.079358 |
+2025-10-07 22:13:43,983 - root - INFO - | Epoch: 099/100 | Train Time: 0.011s | Train Loss: 0.079251 |
+2025-10-07 22:13:43,995 - root - INFO - | Epoch: 100/100 | Train Time: 0.011s | Train Loss: 0.079145 |
+2025-10-07 22:13:43,995 - root - INFO - Get top words per context...
+2025-10-07 22:13:44,878 - root - INFO - Top words extracted.
+2025-10-07 22:13:44,878 - root - INFO - Training Time: 1.323s
+2025-10-07 22:13:44,878 - root - INFO - Finished training.
+2025-10-07 22:13:44,878 - root - INFO - Starting testing...
+2025-10-07 22:13:45,970 - root - INFO - Get top words per context...
+2025-10-07 22:13:51,884 - root - INFO - Top words extracted.
+2025-10-07 22:13:51,884 - root - INFO - Test Loss: 0.217540
+2025-10-07 22:13:51,884 - root - INFO - Test AUC: 99.66%
+2025-10-07 22:13:51,884 - root - INFO - Test Best Context: 2
+2025-10-07 22:13:51,884 - root - INFO - Test Time: 1.087s
+2025-10-07 22:13:51,884 - root - INFO - Finished testing.

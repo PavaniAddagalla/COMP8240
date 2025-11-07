@@ -1,0 +1,456 @@
+Most anomalous examples
+
+01. (h01)
+ prime minister office may refer prime minister office prime minister office prime minister office prime minister office office prime minister office prime minister prime minister office prime minister office prime minister office prime minister office prime minister office office prime minister jamaica prime minister office office prime minister prime minister department office prime minister prime minister office prime minister office office prime minister prime minister office prime minister office prime minister office office prime minister prime minister office
+
+02. (h01)
+ <unk> oil obtained fruit <unk> <unk> grows amazon <unk> oil rich <unk> compounds similar profile pulp <unk> acid <unk> acid <unk> acid <unk> acid <unk> acid well <unk> numerous <unk> <unk> <unk> oil green color <unk> aroma high oleic palmitic fatty acids
+
+03. (h00)
+ wesson cooking oil american brand vegetable oil manufactured <unk> <unk> sold <unk> international historically wesson cottonseed oil products sold wesson brand oil mixtures may include canola oil corn oil soybean oil sunflower oil
+
+04. (h00)
+ perilla oil edible vegetable oil derived perilla seeds distinct nutty aroma taste oil pressed toasted perilla seeds used flavor <unk> condiment cooking oil korean cuisine oil pressed <unk> perilla seeds used non culinary purposes
+
+05. (h00)
+ sunflower oil non volatile oil pressed seeds sunflower sunflower oil commonly used food frying oil cosmetic formulations <unk> sunflower oil primarily composed linoleic acid polyunsaturated fat oleic acid monounsaturated fat selective <unk> manufacturing processes oils differing proportions fatty acids produced expressed oil neutral taste profile oil contains large amount vitamin
+
+06. (h01)
+ ivan <unk> kharitonov head cook court <unk> nicholas russia followed <unk> family internal exile following russian revolution murdered <unk> july <unk> house <unk> russian soviet republic like <unk> kharitonov <unk> passion bearer soviet oppression russian <unk> church outside russia kharitonov wife daughter followed exile <unk> join <unk> moved prisoners <unk> spring kharitonov grandson attended <unk> held july peter paul cathedral saint <unk> grandfather <unk> servants victims murdered <unk> years
+
+07. (h00)
+ apple seed oil vegetable oil obtained pressing apple seeds used manufacturing cosmetics apple seed oil may used edible oil oil cake used supplement animal feed apple seed oil relatively high <unk> value used production <unk> <unk> shoe polish <unk>
+
+08. (h00)
+ poppyseed oil edible oil obtained poppy seeds poppy seeds yield oil like poppy seeds poppyseed oil highly palatable high vitamin <unk> properties poppy seeds especially high tocopherols vitamin compared vegetable oils poppyseed oil moderate amount <unk> higher soybean oil peanut oil lower safflower oil sesame oil wheat germ oil corn oil rice bran oil little <unk> <unk> taste less likely oils become rancid
+
+09. (h00)
+ health administration healthcare administration healthcare management health services management hospital management field relating leadership management administration public health systems health care systems hospitals hospital networks primary secondary tertiary sectors
+
+10. (h00)
+ cottonseed oil cooking oil seeds cotton plants various species mainly <unk> <unk> <unk> <unk> grown cotton <unk> animal feed oil cotton seed similar structure <unk> sunflower seed oil bearing kernel surrounded hard outer hull processing oil extracted kernel cottonseed oil used salad oil mayonnaise salad dressing similar products flavor stability
+
+11. (h00)
+ illipe butter vegetable fat nut shorea <unk> tree sometimes used butter substitute <unk> tallow nut oil extracted species word illipe derived tamil word tree <unk> true illipe nut species <unk> <unk> used producing <unk> <unk> butter <unk> <unk> family <unk> references
+
+12. (h00)
+ <unk> <unk> prize political thought prize awarded individuals representing tradition political <unk> <unk> <unk> especially regard totalitarianism instituted german heinrich <unk> foundation government <unk> awarded international jury prize money
+
+13. (h00)
+ pequi oil seed oil extracted seeds <unk> <unk> native brazil pale yellow <unk> oil extracted used directly cooking oil brazil projects among indigenous people groups develop pequi oil production means economic development pequi oil contains palmitic oleic acid <unk> <unk> acids much smaller amounts references
+
+14. (h01)
+ academia <unk> <unk> guatemala culinary training academy guatemala many top chefs guatemala <unk> <unk> southern mexico trained academy culinary academy guatemala addition offering programs training chefs offers free courses world cuisines
+
+15. (h01)
+ sač large metal ceramic lid like shallow bell bread dough various dishes baked covered ashes live coals placed dishes prepared sač evenly cooked retain <unk> praised rich flavour sač also refer dish made meat vegetables potatoes baked sač oven
+
+16. (h00)
+ saucier <unk> chef position classical <unk> style kitchen translated english sauce chef addition preparing sauces saucier prepares stews hot hors <unk> <unk> food order although often considered highest position station cooks saucier typically still tertiary chef sous chef
+
+17. (h00)
+ pellet grills sometimes referred pellet <unk> outdoor cookers combine elements charcoal <unk> gas grills kitchen ovens fueled wood pellets smoke grill <unk> sear bake using electric control panel automatically feed fuel pellets fire regulate grill airflow maintain consistent cooking temperatures
+
+18. (h00)
+ <unk> food baked oven italian dishes commonly prepared way include pizza breads pasta dishes notably <unk> pasta sometimes boiled baked <unk> pasta dishes double cooking means served soft firm dente consistency <unk> prefer pasta dishes
+
+19. (h01)
+ post soviet russian socialist political party peace unity leadership <unk> <unk> issued number orders <unk> <unk> behalf <unk> <unk> permanent <unk> congress people deputies soviet union original <unk> soviet awards others new retained communist <unk> dating dissolution <unk> awards listed issued commonly called <unk> awards party leader
+
+20. (h01)
+ <unk> british company main supplier non stick coated steel bakeware market since based west midlands also trade name series manufacturing companies one point europe largest supplier non stick coated steel bakeware industry
+
+21. (h00)
+ <unk> clay pot used traditional food preparation container philippines <unk> <unk> word parts country especially <unk> called <unk> smaller sized pots referred <unk> neighboring indonesia malaysia refer vessel <unk>
+
+22. (h01)
+ tortilla press traditional device pair flat round surfaces inch plus <unk> balls dough order obtain round corn tortillas flour tortillas tortillas pressed sheets plastic corn leaves tortilla presses usually made cast iron cast aluminium wood
+
+23. (h00)
+ <unk> detention detention individual likelihood evidence committed crime legal statute proper due process law person need arrested order <unk> <unk> persons arbitrarily <unk> <unk> allowed leave specific jurisdiction prevented traveling specific area region
+
+24. (h00)
+ cookery cook treat portion prepared ingredients served part dish nevertheless <unk> <unk> may eaten cook examples might include chocolate <unk> <unk> <unk> otherwise edible <unk> portions <unk> dough treats give chef excuse test food serving <unk> made typically cook treat reason someone chooses cook related idea <unk> fringe benefits
+
+25. (h01)
+ black vests black <unk> french activist organization mostly composed <unk> immigrants group campaigns provision administrative documents immigrants well <unk> housing living conditions <unk> <unk> arose partly response perceived racist anti immigrant pro fascist sentiment among yellow vests movement
+
+26. (h01)
+ herzl award awarded annually department zionist activities world zionist organization outstanding young men women recognition exceptional efforts behalf israel zionist cause award first awarded <unk> <unk> <unk> anniversary theodore herzl death
+
+27. (h01)
+ stewards also informally referred blackshirts paramilitary wing british union fascists served similar role blackshirts national fascist party italy also wore black uniforms stewards officially organization guards protect oswald <unk> eject groups <unk> audience speeches <unk> officials practice stewards physically assaulted <unk> political opponents <unk> <unk> lead
+
+28. (h01)
+ shorea robusta seed oil edible oil extracted seeds shorea robusta shorea robusta known <unk> tree india <unk> indigenous india occurs two main regions separated <unk> plain namely northern central indian regions plant <unk> <unk> <unk> family
+
+29. (h00)
+ universal <unk> philosophical spiritual sociopolitical concept emphasizes unity human beings beyond <unk> race nationality religion class idea explored various religious traditions philosophical systems political movements throughout history
+
+30. (h00)
+ term issue voting describes voters cast vote elections based political issues context election issues include questions public policy matter controversy sources disagreement political parties according theory issue voting voters compare candidates respective principles rank candidates perceived <unk> issue order decide vote
+
+31. (h01)
+ <unk> awards annual event held british charity <unk> <unk> people affected lives british lesbian gay trans people event first held royal academy arts held victoria albert museum held final time decade categories
+
+32. (h00)
+ toque type hat narrow <unk> <unk> <unk> popular century europe especially france revived <unk> primarily known traditional <unk> professional cooks except canada term toque used interchangeably french canadian spelling <unk> refer <unk> caps
+
+33. (h01)
+ european prize political culture <unk> euros awarded swiss <unk> <unk> foundation <unk> foundation president frank <unk> award ceremony part traditional <unk> républicain frank <unk> hotel castello del sole <unk> <unk> républicain taking place years occasion <unk> international film festival
+
+34. (h01)
+ order <unk> <unk> order organisation <unk> <unk> recognizes people particularly distinguished service ideals cooperation friendship promoting role french language countries world created initiative <unk> <unk> <unk>
+
+35. (h00)
+ garde manger cool well <unk> area savory cold dishes prepared foods stored refrigeration person charge area savory cold foods served restaurant known chef garde manger pantry chef larger hotels restaurants may garde manger staff perform additional duties creating decorative elements buffet presentation like ice <unk> edible <unk>
+
+36. (h01)
+ martine anstett award martine anstett human rights prize awarded every year april paris person man woman strongly committed defense human rights april anniversary day martine anstett died martine anstett human rights award also protect rights <unk> annual prize worth euros
+
+37. (h01)
+ ibn rushd prize freedom thought <unk> prize awarded germany <unk> independent forward thinking individuals organisations contributed democracy freedom speech arab world prize awarded annually since <unk> non governmental ibn rushd fund fund founded occasion anniversary <unk> philosopher <unk> ibn rushd death anniversary declaration human rights
+
+38. (h00)
+ atora popular british brand offering pre shredded suet suet commonly needs shredded typical uses british cuisine atora seen labour saving convenience item atora uses suet cattle sheep atora also available vegetable fat based version labeled vegetable suet
+
+39. (h00)
+ <unk> small portable electric oven cooking element housed lid pot consists teflon lined pan stand addition lid mounted heating element developed czech electrical engineer <unk> <unk> <unk> <unk> heat control cooks similar manner oven stated <unk> terms electricity
+
+40. (h00)
+ teaspoon small spoon used stir cup tea coffee tool measuring volume size <unk> ranges <unk> medicine places metric units used cooking purposes <unk> defined standard measuring spoons used
+
+41. (h00)
+ rendering process <unk> waste animal tissue stable <unk> materials rendering refer processing animal products useful materials <unk> rendering whole animal fatty tissue purified fats like lard tallow rendering carried industrial farm kitchen scale also applied non animal products rendered pulp rendering process simultaneously <unk> material separates fat bone protein yielding fat commodity protein meal
+
+42. (h00)
+ <unk> rule regulation issued group people prohibits simultaneous membership group groups conflict usually represents obstacle <unk> group cause expulsion example members parliament many countries prohibited engaging certain occupations
+
+43. (h00)
+ peanut oil also known <unk> oil <unk> oil vegetable oil derived <unk> oil usually mild neutral flavor made roasted <unk> stronger peanut flavor aroma often used american chinese indian african southeast asian cuisine general cooking case roasted oil added flavor peanut oil high smoke point relative many cooking oils commonly used frying foods
+
+44. (h00)
+ bratt pan heavy duty industrial cooking appliance perform multiple functions boiling steaming <unk> simmering roasting poaching braising shallow frying deep frying possess <unk> feature either electrically hand operated bratt pans typically found commercial establishments mass catering required restaurants <unk> hospitals schools term bratt pan stems german word fry <unk> bratt pans contain rectangular deep pots counter balanced lids pull heating source powered gas electrical means
+
+45. (h01)
+ yellow vests movement series canadian protests inspired france yellow vest protests occurred late early unlike french <unk> <unk> protests yellow vest canada movement incorporated <unk> rhetoric messaging described <unk> <unk> hate group alt right far right
+
+46. (h00)
+ cracklings <unk> also known <unk> solid material remains rendering animal fat skin produce lard tallow schmaltz result roasting meat often eaten snack food made animal feed also used cooking cracklings commonly made pork goose chicken also made poultry beef lamb mutton
+
+47. (h01)
+ crisp dry brand rapeseed oil manufactured edible oils limited marketed princes group manufacturer claims vegetable oil leaves food dry frying compared vegetable oils require fried food dried kitchen paper absorb excess oil crisp dry previously marketed spry unilever acquired princes limited crisp dry contains <unk> block crisp dry longer contains trans fat long running advertising campaign crisp dry stated matter day week turn day fry day
+
+48. (h00)
+ development chef trained chef <unk> development new dishes food products food companies type chef often responsibility creating new pre prepared meals food products within health care chef often responsible development variations mainstream meals fit different types diets still <unk> meal individual restaurants rarely development chefs restaurant chains often chef typically responsible designing dishes ensuring local kitchen staff create prepare exact standard
+
+49. (h00)
+ black beret coloured beret commonly worn <unk> militaries around world particularly <unk> forces british army royal tank regiment royal canadian armoured corps royal australian armoured corps indian army armoured corps notable non <unk> military units wear black beret include non military police non special forces elements irish defence forces russian naval <unk> russian <unk> units majority united states army united states air force <unk> air control parties
+
+50. (h00)
+ traditional chef uniform includes toque <unk> white double <unk> jacket pants black white <unk> pattern apron common occupational uniform western world chef buttons also meaning <unk> chefs wear black buttons students wear white buttons
+
+Most anomalous examples
+
+01. (h01)
+ list astronomical observatories ukraine <unk> astronomical observatory crimean astrophysical observatory <unk> astronomical observatory <unk> observatory white elephant radio telescopes giant ukrainian radio telescope ukrainian shaped radio telescope second modification
+
+02. (h01)
+ foreign policy war aims nazis subject debate among historians nazis governed germany <unk> whether adolf hitler aimed solely european expansion domination whether planned long term global empire
+
+03. (h01)
+ list lists cappella groups lists several lists cappella groups <unk> groups sing cappella list professional cappella groups lists collegiate cappella groups list collegiate cappella groups united states list stanford university cappella groups list university cappella groups united kingdom list <unk> collegiate cappella groups
+
+04. (h01)
+ willy brandt prize annual prize awarded norwegian german willy brandt prize foundation since awarded persons institutions make significant contributions german norwegian relations named former german <unk> willy brandt comprises willy brandt <unk> <unk> aas certificate separate international willy brandt prize founded social democratic party germany
+
+05. (h01)
+ defense democracies non profit organization created february <unk> house representatives <unk> updated foreign intelligence <unk> act passed senate organization spent million television radio campaign <unk> members congress <unk> <unk> run <unk> cable television <unk>
+
+06. (h01)
+ <unk> awards annual event held british charity <unk> recognise people affected lives british <unk> gay trans people event first held royal academy arts held victoria albert museum held final time <unk> categories
+
+07. (h01)
+ marine navigation art science <unk> ship starting point destination efficiently <unk> art skill navigator must avoid <unk> navigation science based physical mathematical <unk> <unk> astronomical knowledge marine navigation surface <unk>
+
+08. (h01)
+ <unk> <unk> <unk> star atlas published julius schiller collaboration johann <unk> treatise published andreas <unk> <unk> year schiller death <unk> constellations replaced biblical figures christian <unk> schiller replaced zodiac constellations twelve <unk> northern constellations new testament figures southern constellations old testament figures planets sun moon also replaced biblical figures sun replaced jesus christ moon replaced mary <unk> replaced <unk> venus replaced john <unk> mars replaced joshua jupiter replaced moses saturn replaced adam <unk> atlas lucas kilian
+
+09. (h01)
+ list scientific journals publishing articles astronomy astrophysics space sciences <unk> astronomy bulletin american astronomical society bulgarian astronomical journal bulletin astronomical society india celestial mechanics <unk> astronomy classical quantum gravity <unk> des <unk> cosmic research earth planetary science letters earth moon planets experimental astronomy general relativity <unk> <unk> research letters <unk> international astronomical union circular international journal astrobiology living reviews solar physics <unk> planetary science monthly <unk> royal astronomical society nature astronomy nature <unk> new astronomy observatory open astronomy open european journal variable stars <unk> astronomical publications <unk> <unk> <unk> <unk> <unk> planetary space science publications astronomical society australia publications astronomical society japan publications astronomical society pacific research astronomy astrophysics research notes aas <unk> <unk> <unk> <unk> serbian astronomical journal solar physics solar system research space science reviews <unk>
+
+10. (h01)
+ <unk> sociology outer space sociology universe study relationship outer space extraterrestrial places wider universe society interdisciplinary study space related sciences sociology seeks understand impact human society outside current planetary system <unk> focuses space exploration related issues alongside social cultural dimensions outer space <unk> human civilisation
+
+11. (h01)
+ following topical outline english <unk> articles history chinese civil war chinese civil war fought kuomintang led government republic china forces chinese communist party armed conflict continuing <unk> august communist victory resulted total control mainland china december
+
+12. (h01)
+ <unk> worlds possibility understanding history social sciences book geoffrey <unk> professor sociology university cambridge book credited <unk> academic field counterfactual history book explores three points divergence black death korean war influence <unk> references
+
+13. (h01)
+ <unk> <unk> <unk> <unk> <unk> <unk> <unk> book serbian author journalist music critic <unk> <unk> published book second expanded edition <unk> book <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> book features lyrics acts former <unk> rock scene scenes successor states
+
+14. (h01)
+ northern celestial hemisphere also called northern sky northern half celestial sphere lies north celestial equator arbitrary sphere appears rotate westward around polar axis due earth rotation given time entire northern sky visible geographic north pole less hemisphere visible farther south observer located southern counterpart southern celestial hemisphere
+
+15. (h01)
+ <unk> marcel pollitzer formally <unk> des <unk> <unk> <unk> marcel pollitzer french literary award created association des <unk> <unk> named writer marcel pollitzer awarded every year work history <unk> biography
+
+16. (h01)
+ national republican trust political action committee conservative political action committee run scott wheeler according group official <unk> committee describe conservative republicans dedicated helping <unk> <unk> historic conservative roots <unk> like <unk> republicans <unk>
+
+17. (h01)
+ <unk> <unk> ancient work classical music written <unk> work rare collection definitions descriptions comments essential music ancient <unk> authors <unk> <unk> <unk> main feature treatment <unk> categorizing male female <unk>
+
+18. (h01)
+ poles astronomical bodies determined based axis rotation relation celestial poles celestial sphere astronomical bodies include stars planets dwarf planets small solar system bodies comets minor planets well natural satellites minor planet moons
+
+19. (h01)
+ snow white notes japanese manga series written illustrated <unk> <unk> <unk> <unk> <unk> manga magazine monthly <unk> magazine december august collected thirty one <unk> volumes <unk> television series adaptation produced shin <unk> <unk> april june <unk> programming block
+
+20. (h01)
+ historian person studies writes past regarded authority historians concerned continuous <unk> narrative research past events relating human race well study history time historians recognized publications training experience historian became professional occupation late nineteenth century research universities emerging germany elsewhere
+
+21. (h01)
+ man broke <unk> title claimed autobiographical later classified semi autobiographical semi fictional book denis <unk> <unk> british hero holocaust award book written together rob <unk> published <unk> carries <unk> sir martin gilbert <unk> james long assisted research helped <unk> structure manuscript
+
+22. (h01)
+ indigenous tribes paraguay majority territories <unk> region tribes region include <unk> <unk> <unk> <unk> <unk> <unk> according <unk> number estimated roughly around per cent total population peoples faced <unk> particularly dictator alfredo <unk> observers called genocide
+
+23. (h01)
+ united nations <unk> association <unk> founded new york city members today presents annual <unk> excellence <unk> awards purpose awards recognize encourage excellence reporting united nations affiliated agencies organizations missions awards reported new york times
+
+24. (h01)
+ physical cosmology <unk> principle states humans privileged observers universe observations earth representative observations average position universe named <unk> <unk> working assumption arises modified cosmological extension <unk> argument moving earth
+
+25. (h01)
+ <unk> – russell diagram <unk> <unk> stars showing relationship stars absolute <unk> <unk> stellar <unk> effective temperatures also sometimes called color magnitude diagram diagram created independently <unk> <unk> henry <unk> russell represented major step towards understanding stellar evolution
+
+26. (h01)
+ second modernity phrase coined german sociologist <unk> beck word period modernity modernity broke agricultural society favour industrial society second modernity <unk> industrial society new reflexive network society information society
+
+27. (h01)
+ political drama describe play film program political component whether reflecting author political opinion describing politician series political events <unk> written political <unk> include aaron <unk> robert penn warren sergei eisenstein <unk> <unk> jean paul <unk> howard <unk> <unk> <unk> <unk> <unk> <unk>
+
+28. (h01)
+ earth deep history book historian <unk> martin <unk> advances geological time deep history term development earth history distant past human species reviews largely positive although criticized <unk> <unk> relation conflict science religion <unk> evolution religious groups
+
+29. (h01)
+ <unk> apparatus mechanism devised performing change ringing church bells striking <unk> bells <unk> produce sound full circle ringing due absence doppler effect bells rotate lack <unk> effect clapper strike
+
+30. (h01)
+ list history journals presents representative notable academic journals <unk> field history historiography includes scholarly journals listed journal databases professional associations jstor project <unk> organization american historians american historical association <unk> published national regional historical societies major scholarly publishers include many world journals devoted local history highly specialized topics list compilation one based <unk> examination <unk> quality
+
+31. (h01)
+ <unk> – <unk> debate historiographical debate reasons holocaust well aspects third reich foreign policy essentially centres two questions master plan part adolf hitler launch holocaust intentionalists argue plan functionalists argue initiative holocaust come orders adolf hitler within ranks german <unk> although neither side disputes reality holocaust serious <unk> <unk> hitler <unk> responsible <unk> anti <unk> allowed holocaust take place intentionalists argue initiative came functionalists <unk> came lower ranks within <unk> terms coined essay british marxist historian timothy mason notable functionalists included timothy mason <unk> <unk> karl <unk> christopher browning hans mommsen martin <unk> <unk> <unk> christian <unk> <unk> <unk> timothy snyder david <unk> notable intentionalists included william shirer hugh trevor roper alan bullock karl <unk> andreas hillgruber klaus hildebrand <unk> <unk> <unk> <unk> israel <unk> gerhard <unk> walter <unk> <unk> <unk> richard <unk> lucy <unk> daniel <unk>
+
+32. (h01)
+ story music work <unk> english composer <unk> howard <unk> first published <unk> <unk> covers history largely western classical music pre history book associated bbc documentary series howard <unk> story music book reception broadly positive main criticism treatment <unk> <unk> movement
+
+33. (h01)
+ guitar zero new musician science learning popular science book research <unk> gary marcus documents author process learning guitar discussing aspects music <unk> role critical periods learning musical ability book released january published penguin books december released paperback title guitar zero science becoming musical age
+
+34. (h01)
+ microhistory genre history focuses small units research event community individual settlement according charles <unk> microhistory differs case studies microhistory <unk> <unk> large questions small places closely associated social cultural history
+
+35. (h01)
+ friday <unk> <unk> british horror novel written stephen hand published black flame tie friday series american horror films fifth final <unk> series five friday novels published black flame involves <unk> killer jason <unk> placed display <unk> attraction <unk> <unk> <unk> terror
+
+36. (h01)
+ jalal <unk> literary award iranian literary award presented yearly since every year award given best iranian authors birthday renowned persian writer jalal <unk> top winner receives <unk> <unk> gold coins making iran <unk> literary award years top winner <unk> receive gold coins categories include novel short story literary criticism history <unk> award confirmed supreme cultural revolution council first award presented
+
+37. (h01)
+ ambient century book mark <unk> published <unk> traces development ambient music contents music journalist mark <unk> traces development ambient music genre <unk> composers musicians events music history beginning gustav <unk> reception <unk> reviews described work exceptional music history standard reference work ambient genre <unk> references bibliography external links full text internet archive
+
+38. (h01)
+ web <unk> technologies preceded <unk> standards <unk> content framework resource description framework well push specifications channel definition format early web <unk> standards included information content exchange <unk> recent specifications include <unk> <unk>
+
+39. (h01)
+ nine tailors mystery novel british writer dorothy sayers <unk> featuring lord peter <unk> story set <unk> <unk> <unk> around group bell ringers local <unk> church book described sayers <unk> literary achievement although critics <unk> mode death amount technical campanology detail included
+
+40. (h01)
+ choral songs honour majesty queen victoria collection choral songs british composers issued occasion birthday queen victoria master queen music sir walter <unk> proposed volume choral songs <unk> <unk> <unk> part planned birthday celebrations <unk> british composers limited edition copies produced entitled choral songs honour majesty queen victoria actual title front book choral songs various writers composers honour majesty queen victoria contents
+
+41. (h01)
+ regional policy sum series policies formulated according regional differences coordinate regional relations regional macro operation mechanism affects regional development macro level includes regional economic policy regional social policy regional environmental policy regional political policy regional cultural policy etc regional policy aims improve economic conditions regions relative <unk> either within nation within <unk> <unk> european union additionally regional policy may try address high levels <unk> lower average per <unk> <unk> main tool public investment
+
+42. (h01)
+ spherical astronomy parallactic angle angle great circle celestial object zenith hour circle object usually <unk> triangle zenith — object — celestial pole parallactic angle position angle zenith celestial object despite name angle unrelated parallax parallactic angle object <unk> meridian
+
+43. (h01)
+ astronomy planisphere star chart <unk> <unk> instrument form two adjustable disks rotate common pivot <unk> display visible stars time date instrument assist learning recognize stars constellations <unk> instrument origins hellenistic astronomy predecessor modern planisphere term planisphere contrasts <unk> sphere celestial sphere represented three dimensional framework rings
+
+44. (h01)
+ term office electoral term <unk> term length time person serves particular elected office many jurisdictions defined limit long terms office may <unk> must subject election jurisdictions exercise term limits setting maximum number terms individual may hold particular office
+
+45. (h01)
+ political sociological theory elite small group powerful wealthy people hold <unk> amount wealth <unk> political power skill group defined cambridge dictionary elite <unk> powerful best educated best trained group society american sociologist wright mills states members elite accept fellows position importance society rule accept one another understand one another <unk> one another tend work think together least alike well regulated existence education plays critical role
+
+46. (h01)
+ list software creating performing learning <unk> researching broadcasting <unk> music article includes software services streaming services <unk> <unk> prime music spotify see comparison demand streaming music services storage <unk> <unk> streaming music via cloud see comparison online music <unk> list include discontinued historic legacy software exception <unk> still supported program fits several categories comprehensive digital audio <unk> foundation programming language listing limited top three categories
+
+47. (h01)
+ <unk> astrophysical jet discovered may originally thought quasar astronomers march classified cosmic jet <unk> jet discovered redshift see also list distant astronomical objects list quasars <unk> references
+
+48. (h01)
+ scottish politician year annual awards ceremony established held <unk> newspaper <unk> house edinburgh although initial awards ceremony held national museum scotland <unk> house hotel considered home event hosting every ceremony since ceremony former labour <unk> life peer mike watson set fire <unk> subsequently convicted <unk> fire raising subsidiary awards handed every year
+
+49. (h01)
+ <unk> universe concept <unk> universe mechanical clock continues <unk> along perfect machine <unk> governed laws physics making every aspect machine <unk> evolved enlightenment parallel emergence newton laws governing motion gravity
+
+50. (h01)
+ astronomy barycenter heavy <unk> center center mass two bodies orbit one another point bodies orbit barycenter <unk> point physical object important concept fields astronomy astrophysics distance body center mass barycenter calculated two body problem one two orbiting bodies much massive bodies relatively close one another barycenter typically located within massive object case rather two bodies appearing orbit point less massive body appear orbit massive body massive body might observed <unk> slightly case earth – moon system whose barycenter located average earth center earth radius two bodies similar masses barycenter generally located bodies orbit around case pluto <unk> one pluto natural satellites well many binary asteroids binary stars less massive object far away barycenter located outside massive object case jupiter sun despite sun <unk> massive jupiter barycenter slightly outside sun due relatively large distance astronomy barycentric coordinates non rotating coordinates origin barycenter two bodies international celestial reference system barycentric coordinate system centered solar system barycenter
+
+Most anomalous examples
+
+01. (h01)
+ list astronomical observatories ukraine <unk> astronomical observatory crimean astrophysical observatory <unk> astronomical observatory <unk> observatory white elephant radio telescopes giant ukrainian radio telescope ukrainian shaped radio telescope second modification
+
+02. (h01)
+ foreign policy war aims nazis subject debate among historians nazis governed germany <unk> whether adolf hitler aimed solely european expansion domination whether planned long term global empire
+
+03. (h01)
+ list lists cappella groups lists several lists cappella groups <unk> groups sing cappella list professional cappella groups lists collegiate cappella groups list collegiate cappella groups united states list stanford university cappella groups list university cappella groups united kingdom list <unk> collegiate cappella groups
+
+04. (h01)
+ willy brandt prize annual prize awarded norwegian german willy brandt prize foundation since awarded persons institutions make significant contributions german norwegian relations named former german <unk> willy brandt comprises willy brandt <unk> <unk> aas certificate separate international willy brandt prize founded social democratic party germany
+
+05. (h01)
+ defense democracies non profit organization created february <unk> house representatives <unk> updated foreign intelligence <unk> act passed senate organization spent million television radio campaign <unk> members congress <unk> <unk> run <unk> cable television <unk>
+
+06. (h01)
+ <unk> awards annual event held british charity <unk> recognise people affected lives british <unk> gay trans people event first held royal academy arts held victoria albert museum held final time <unk> categories
+
+07. (h01)
+ marine navigation art science <unk> ship starting point destination efficiently <unk> art skill navigator must avoid <unk> navigation science based physical mathematical <unk> <unk> astronomical knowledge marine navigation surface <unk>
+
+08. (h01)
+ <unk> <unk> <unk> star atlas published julius schiller collaboration johann <unk> treatise published andreas <unk> <unk> year schiller death <unk> constellations replaced biblical figures christian <unk> schiller replaced zodiac constellations twelve <unk> northern constellations new testament figures southern constellations old testament figures planets sun moon also replaced biblical figures sun replaced jesus christ moon replaced mary <unk> replaced <unk> venus replaced john <unk> mars replaced joshua jupiter replaced moses saturn replaced adam <unk> atlas lucas kilian
+
+09. (h01)
+ <unk> sociology outer space sociology universe study relationship outer space extraterrestrial places wider universe society interdisciplinary study space related sciences sociology seeks understand impact human society outside current planetary system <unk> focuses space exploration related issues alongside social cultural dimensions outer space <unk> human civilisation
+
+10. (h01)
+ <unk> worlds possibility understanding history social sciences book geoffrey <unk> professor sociology university cambridge book credited <unk> academic field counterfactual history book explores three points divergence black death korean war influence <unk> references
+
+11. (h01)
+ following topical outline english <unk> articles history chinese civil war chinese civil war fought kuomintang led government republic china forces chinese communist party armed conflict continuing <unk> august communist victory resulted total control mainland china december
+
+12. (h01)
+ list scientific journals publishing articles astronomy astrophysics space sciences <unk> astronomy bulletin american astronomical society bulgarian astronomical journal bulletin astronomical society india celestial mechanics <unk> astronomy classical quantum gravity <unk> des <unk> cosmic research earth planetary science letters earth moon planets experimental astronomy general relativity <unk> <unk> research letters <unk> international astronomical union circular international journal astrobiology living reviews solar physics <unk> planetary science monthly <unk> royal astronomical society nature astronomy nature <unk> new astronomy observatory open astronomy open european journal variable stars <unk> astronomical publications <unk> <unk> <unk> <unk> <unk> planetary space science publications astronomical society australia publications astronomical society japan publications astronomical society pacific research astronomy astrophysics research notes aas <unk> <unk> <unk> <unk> serbian astronomical journal solar physics solar system research space science reviews <unk>
+
+13. (h01)
+ <unk> <unk> <unk> <unk> <unk> <unk> <unk> book serbian author journalist music critic <unk> <unk> published book second expanded edition <unk> book <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> book features lyrics acts former <unk> rock scene scenes successor states
+
+14. (h01)
+ northern celestial hemisphere also called northern sky northern half celestial sphere lies north celestial equator arbitrary sphere appears rotate westward around polar axis due earth rotation given time entire northern sky visible geographic north pole less hemisphere visible farther south observer located southern counterpart southern celestial hemisphere
+
+15. (h01)
+ national republican trust political action committee conservative political action committee run scott wheeler according group official <unk> committee describe conservative republicans dedicated helping <unk> <unk> historic conservative roots <unk> like <unk> republicans <unk>
+
+16. (h01)
+ <unk> marcel pollitzer formally <unk> des <unk> <unk> <unk> marcel pollitzer french literary award created association des <unk> <unk> named writer marcel pollitzer awarded every year work history <unk> biography
+
+17. (h01)
+ <unk> <unk> ancient work classical music written <unk> work rare collection definitions descriptions comments essential music ancient <unk> authors <unk> <unk> <unk> main feature treatment <unk> categorizing male female <unk>
+
+18. (h01)
+ snow white notes japanese manga series written illustrated <unk> <unk> <unk> <unk> <unk> manga magazine monthly <unk> magazine december august collected thirty one <unk> volumes <unk> television series adaptation produced shin <unk> <unk> april june <unk> programming block
+
+19. (h01)
+ poles astronomical bodies determined based axis rotation relation celestial poles celestial sphere astronomical bodies include stars planets dwarf planets small solar system bodies comets minor planets well natural satellites minor planet moons
+
+20. (h01)
+ historian person studies writes past regarded authority historians concerned continuous <unk> narrative research past events relating human race well study history time historians recognized publications training experience historian became professional occupation late nineteenth century research universities emerging germany elsewhere
+
+21. (h01)
+ man broke <unk> title claimed autobiographical later classified semi autobiographical semi fictional book denis <unk> <unk> british hero holocaust award book written together rob <unk> published <unk> carries <unk> sir martin gilbert <unk> james long assisted research helped <unk> structure manuscript
+
+22. (h01)
+ indigenous tribes paraguay majority territories <unk> region tribes region include <unk> <unk> <unk> <unk> <unk> <unk> according <unk> number estimated roughly around per cent total population peoples faced <unk> particularly dictator alfredo <unk> observers called genocide
+
+23. (h01)
+ united nations <unk> association <unk> founded new york city members today presents annual <unk> excellence <unk> awards purpose awards recognize encourage excellence reporting united nations affiliated agencies organizations missions awards reported new york times
+
+24. (h01)
+ physical cosmology <unk> principle states humans privileged observers universe observations earth representative observations average position universe named <unk> <unk> working assumption arises modified cosmological extension <unk> argument moving earth
+
+25. (h01)
+ second modernity phrase coined german sociologist <unk> beck word period modernity modernity broke agricultural society favour industrial society second modernity <unk> industrial society new reflexive network society information society
+
+26. (h01)
+ <unk> – russell diagram <unk> <unk> stars showing relationship stars absolute <unk> <unk> stellar <unk> effective temperatures also sometimes called color magnitude diagram diagram created independently <unk> <unk> henry <unk> russell represented major step towards understanding stellar evolution
+
+27. (h01)
+ <unk> apparatus mechanism devised performing change ringing church bells striking <unk> bells <unk> produce sound full circle ringing due absence doppler effect bells rotate lack <unk> effect clapper strike
+
+28. (h01)
+ political drama describe play film program political component whether reflecting author political opinion describing politician series political events <unk> written political <unk> include aaron <unk> robert penn warren sergei eisenstein <unk> <unk> jean paul <unk> howard <unk> <unk> <unk> <unk> <unk> <unk>
+
+29. (h01)
+ earth deep history book historian <unk> martin <unk> advances geological time deep history term development earth history distant past human species reviews largely positive although criticized <unk> <unk> relation conflict science religion <unk> evolution religious groups
+
+30. (h01)
+ guitar zero new musician science learning popular science book research <unk> gary marcus documents author process learning guitar discussing aspects music <unk> role critical periods learning musical ability book released january published penguin books december released paperback title guitar zero science becoming musical age
+
+31. (h01)
+ list history journals presents representative notable academic journals <unk> field history historiography includes scholarly journals listed journal databases professional associations jstor project <unk> organization american historians american historical association <unk> published national regional historical societies major scholarly publishers include many world journals devoted local history highly specialized topics list compilation one based <unk> examination <unk> quality
+
+32. (h01)
+ story music work <unk> english composer <unk> howard <unk> first published <unk> <unk> covers history largely western classical music pre history book associated bbc documentary series howard <unk> story music book reception broadly positive main criticism treatment <unk> <unk> movement
+
+33. (h01)
+ microhistory genre history focuses small units research event community individual settlement according charles <unk> microhistory differs case studies microhistory <unk> <unk> large questions small places closely associated social cultural history
+
+34. (h01)
+ <unk> – <unk> debate historiographical debate reasons holocaust well aspects third reich foreign policy essentially centres two questions master plan part adolf hitler launch holocaust intentionalists argue plan functionalists argue initiative holocaust come orders adolf hitler within ranks german <unk> although neither side disputes reality holocaust serious <unk> <unk> hitler <unk> responsible <unk> anti <unk> allowed holocaust take place intentionalists argue initiative came functionalists <unk> came lower ranks within <unk> terms coined essay british marxist historian timothy mason notable functionalists included timothy mason <unk> <unk> karl <unk> christopher browning hans mommsen martin <unk> <unk> <unk> christian <unk> <unk> <unk> timothy snyder david <unk> notable intentionalists included william shirer hugh trevor roper alan bullock karl <unk> andreas hillgruber klaus hildebrand <unk> <unk> <unk> <unk> israel <unk> gerhard <unk> walter <unk> <unk> <unk> richard <unk> lucy <unk> daniel <unk>
+
+35. (h01)
+ friday <unk> <unk> british horror novel written stephen hand published black flame tie friday series american horror films fifth final <unk> series five friday novels published black flame involves <unk> killer jason <unk> placed display <unk> attraction <unk> <unk> <unk> terror
+
+36. (h01)
+ ambient century book mark <unk> published <unk> traces development ambient music contents music journalist mark <unk> traces development ambient music genre <unk> composers musicians events music history beginning gustav <unk> reception <unk> reviews described work exceptional music history standard reference work ambient genre <unk> references bibliography external links full text internet archive
+
+37. (h01)
+ jalal <unk> literary award iranian literary award presented yearly since every year award given best iranian authors birthday renowned persian writer jalal <unk> top winner receives <unk> <unk> gold coins making iran <unk> literary award years top winner <unk> receive gold coins categories include novel short story literary criticism history <unk> award confirmed supreme cultural revolution council first award presented
+
+38. (h01)
+ web <unk> technologies preceded <unk> standards <unk> content framework resource description framework well push specifications channel definition format early web <unk> standards included information content exchange <unk> recent specifications include <unk> <unk>
+
+39. (h01)
+ nine tailors mystery novel british writer dorothy sayers <unk> featuring lord peter <unk> story set <unk> <unk> <unk> around group bell ringers local <unk> church book described sayers <unk> literary achievement although critics <unk> mode death amount technical campanology detail included
+
+40. (h01)
+ choral songs honour majesty queen victoria collection choral songs british composers issued occasion birthday queen victoria master queen music sir walter <unk> proposed volume choral songs <unk> <unk> <unk> part planned birthday celebrations <unk> british composers limited edition copies produced entitled choral songs honour majesty queen victoria actual title front book choral songs various writers composers honour majesty queen victoria contents
+
+41. (h01)
+ spherical astronomy parallactic angle angle great circle celestial object zenith hour circle object usually <unk> triangle zenith — object — celestial pole parallactic angle position angle zenith celestial object despite name angle unrelated parallax parallactic angle object <unk> meridian
+
+42. (h01)
+ regional policy sum series policies formulated according regional differences coordinate regional relations regional macro operation mechanism affects regional development macro level includes regional economic policy regional social policy regional environmental policy regional political policy regional cultural policy etc regional policy aims improve economic conditions regions relative <unk> either within nation within <unk> <unk> european union additionally regional policy may try address high levels <unk> lower average per <unk> <unk> main tool public investment
+
+43. (h01)
+ political sociological theory elite small group powerful wealthy people hold <unk> amount wealth <unk> political power skill group defined cambridge dictionary elite <unk> powerful best educated best trained group society american sociologist wright mills states members elite accept fellows position importance society rule accept one another understand one another <unk> one another tend work think together least alike well regulated existence education plays critical role
+
+44. (h01)
+ astronomy barycenter heavy <unk> center center mass two bodies orbit one another point bodies orbit barycenter <unk> point physical object important concept fields astronomy astrophysics distance body center mass barycenter calculated two body problem one two orbiting bodies much massive bodies relatively close one another barycenter typically located within massive object case rather two bodies appearing orbit point less massive body appear orbit massive body massive body might observed <unk> slightly case earth – moon system whose barycenter located average earth center earth radius two bodies similar masses barycenter generally located bodies orbit around case pluto <unk> one pluto natural satellites well many binary asteroids binary stars less massive object far away barycenter located outside massive object case jupiter sun despite sun <unk> massive jupiter barycenter slightly outside sun due relatively large distance astronomy barycentric coordinates non rotating coordinates origin barycenter two bodies international celestial reference system barycentric coordinate system centered solar system barycenter
+
+45. (h01)
+ astronomy planisphere star chart <unk> <unk> instrument form two adjustable disks rotate common pivot <unk> display visible stars time date instrument assist learning recognize stars constellations <unk> instrument origins hellenistic astronomy predecessor modern planisphere term planisphere contrasts <unk> sphere celestial sphere represented three dimensional framework rings
+
+46. (h01)
+ <unk> astrophysical jet discovered may originally thought quasar astronomers march classified cosmic jet <unk> jet discovered redshift see also list distant astronomical objects list quasars <unk> references
+
+47. (h01)
+ list software creating performing learning <unk> researching broadcasting <unk> music article includes software services streaming services <unk> <unk> prime music spotify see comparison demand streaming music services storage <unk> <unk> streaming music via cloud see comparison online music <unk> list include discontinued historic legacy software exception <unk> still supported program fits several categories comprehensive digital audio <unk> foundation programming language listing limited top three categories
+
+48. (h01)
+ term office electoral term <unk> term length time person serves particular elected office many jurisdictions defined limit long terms office may <unk> must subject election jurisdictions exercise term limits setting maximum number terms individual may hold particular office
+
+49. (h01)
+ <unk> hypothetical structure <unk> <unk> points spacetime <unk> tunnel two ends separate points spacetime wormholes based special solution einstein field equations wormholes consistent general theory relativity whether actually exist unknown many physicists <unk> wormholes merely <unk> fourth spatial dimension analogous two dimensional could experience part three dimensional object matt <unk> suggested may many wormholes universe cosmic <unk> negative mass generated early universe physicists <unk> <unk> suggested create wormholes <unk>
+
+50. (h01)
+ scottish politician year annual awards ceremony established held <unk> newspaper <unk> house edinburgh although initial awards ceremony held national museum scotland <unk> house hotel considered home event hosting every ceremony since ceremony former labour <unk> life peer mike watson set fire <unk> subsequently convicted <unk> fire raising subsidiary awards handed every year
+

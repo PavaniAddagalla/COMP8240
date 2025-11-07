@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h05)
+ apr <unk> ists <unk> <unk> ists
+
+02. (h00)
+ polysyllabic polysyllabic
+
+03. (h05)
+ dir
+
+04. (h03)
+ autodesk bbs
+
+05. (h09)
+ bullshit
+
+06. (h06)
+ unsubscribe
+
+07. (h06)
+ unsubscribe
+
+08. (h05)
+ isbn
+
+09. (h09)
+ yep
+
+10. (h05)
+ commodore cdtv
+
+11. (h05)
+ mhz iisi
+
+12. (h00)
+ <unk>
+
+13. (h00)
+ <unk> <unk>
+
+14. (h03)
+ ernest <unk> jcs sage purdue edu <unk> sage jcs
+
+15. (h05)
+ compuserve com
+
+16. (h03)
+ lou gehrig <unk>
+
+17. (h05)
+ deleted
+
+18. (h03)
+ abolish cults
+
+19. (h03)
+ pierre turgeon islanders
+
+20. (h05)
+ ken
+
+21. (h08)
+ secrecy lds ceremonies clh
+
+22. (h01)
+ liar cheat <unk>
+
+23. (h05)
+ comp graphics faq
+
+24. (h05)
+ dino ciccarelli ray sheppard
+
+25. (h03)
+ xli xloadimage goto flag
+
+26. (h03)
+ jsn jeremy scott noonan
+
+27. (h05)
+ posted
+
+28. (h03)
+ dancing <unk>
+
+29. (h05)
+ subscribe xpert <unk> eve <unk>
+
+30. (h07)
+ mjones donald aix kingston ibm com
+
+31. (h05)
+ insult gregg <unk> lies
+
+32. (h05)
+ virtualgrabkeys resource belongs olvwm
+
+33. (h05)
+ exit
+
+34. (h05)
+ <unk> fantasy <unk> dear elf
+
+35. (h05)
+ article <unk> sys bison baden sys bison baden bari
+
+36. (h08)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+37. (h08)
+ david
+
+38. (h04)
+ quoting dougb ecs comm mot com article apr <unk> comm mot com
+
+39. (h05)
+ xli xloadimage imagemagick export lcs mit edu contrib
+
+40. (h05)
+ article apr csi jpl nasa gov <unk> <unk> jpl nasa gov dan <unk>
+
+41. (h05)
+ fox <unk> dave feustel nmyi feustel netcom com
+
+42. (h07)
+ dreams
+
+43. (h05)
+ objects <unk>
+
+44. (h04)
+ okay okay forgot <unk>
+
+45. (h05)
+ article apr nmt edu erickson <unk> nmt edu alan erickson
+
+46. (h05)
+ flat engine
+
+47. (h05)
+ alt religion spam
+
+48. (h05)
+ brandon wise <unk> nyx edu
+
+49. (h05)
+ <unk> file dis <unk> file tga
+
+50. (h09)
+ gee forgotten nut
+

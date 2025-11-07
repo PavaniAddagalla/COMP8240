@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h04)
+ oct oct
+
+02. (h04)
+ oct oct
+
+03. (h04)
+ oct oct
+
+04. (h04)
+ oct oct
+
+05. (h04)
+ oct oct
+
+06. (h04)
+ jun jun
+
+07. (h04)
+ jun jun
+
+08. (h04)
+ apr apr
+
+09. (h04)
+ apr apr
+
+10. (h04)
+ apr apr
+
+11. (h04)
+ walgreen qtr shr cts cts walgreen qtr shr cts cts
+
+12. (h04)
+ rubbermaid inc qtr shr cts cts rubbermaid inc qtr shr cts cts
+
+13. (h04)
+ gte corp qtr shr cts cts gte corp qtr shr cts cts
+
+14. (h04)
+ whirlpool corp qtr shr cts cts whirlpool corp qtr shr cts cts
+
+15. (h04)
+ ncr corp qtr shr cts cts ncr corp qtr shr cts cts
+
+16. (h03)
+ trump interstate properties talks acquire alexanders trump interstate properties talks acquire alexanders
+
+17. (h07)
+ mead corp qtr oper shr dlrs cts mead corp qtr oper shr dlrs cts
+
+18. (h04)
+ westinghouse electric corp qtr shr dlrs cts westinghouse electric corp qtr shr dlrs cts
+
+19. (h04)
+ raytheon qtr shr dlrs dlrs raytheon qtr shr dlrs dlrs
+
+20. (h03)
+ crazy eddie inc says oppose slate entertainment marketing crazy eddie inc says oppose slate entertainment marketing
+
+21. (h04)
+ wells fargo qtr shr dlrs dlrs wells fargo qtr shr dlrs dlrs
+
+22. (h07)
+ united telecommunications inc qtr shr cts cts united telecommunications inc qtr shr cts cts
+
+23. (h04)
+ <unk> acquire prince mln dlrs <unk> acquire prince mln dlrs
+
+24. (h07)
+ morgan inc qtr shr dlrs dlrs morgan inc qtr shr dlrs dlrs
+
+25. (h07)
+ greyhound lines agrees acquire remaining routes trailways corp greyhound lines agrees acquire remaining routes trailways corp
+
+26. (h04)
+ computer associates acquire uccel corp mln dlrs computer associates acquire uccel corp mln dlrs
+
+27. (h07)
+ general electric qtr shr dlrs dlrs general electric qtr shr dlrs dlrs
+
+28. (h07)
+ spectra physics rejects ciba geigy tender offer spectra physics rejects ciba geigy tender offer
+
+29. (h07)
+ circle express terminates planned acquisition overland express circle express terminates planned acquisition overland express
+
+30. (h07)
+ basin pipeline texas okla border washed floods bpd crude affected basin pipeline texas okla border washed floods bpd crude affected
+
+31. (h03)
+ dart group said solicit proxies attempt acquire dayton hudson dart group said solicit proxies attempt acquire dayton hudson
+
+32. (h07)
+ corby distilleries ltd buy heublein <unk> distillers mln canadian dlrs corby distilleries ltd buy heublein <unk> distillers mln canadian dlrs
+
+33. (h07)
+ simon schuster acquire woodhead faulkner undisclosed terms simon schuster acquire woodhead faulkner undisclosed terms
+
+34. (h07)
+ sumita welcomes west german joint confirmation louvre accord sumita welcomes west german joint confirmation louvre accord
+
+35. (h07)
+ abbott laboratories qtr net shr cts cts abbott laboratories qtr net shr cts cts
+
+36. (h07)
+ fleet financial group qtr shr cts cts fleet financial group qtr shr cts cts
+
+37. (h07)
+ chrysler agrees acquire electrospace systems mln dlrs chrysler agrees acquire electrospace systems mln dlrs
+
+38. (h04)
+ <unk> corp <unk> qtr mar shr cts cts net revs mln mln
+
+39. (h03)
+ weinberger says forces attacked iranian oil platform weinberger says forces attacked iranian oil platform
+
+40. (h07)
+ dominion textile calls report bid burlington rumor dominion textile calls report bid burlington rumor
+
+41. (h07)
+ shipping sources say unidentified jets raid iranian oil platforms southern gulf shipping sources say unidentified jets raid iranian oil platforms southern gulf
+
+42. (h07)
+ revlon group agrees merge macandrews forbes group dlrs shr cash revlon group agrees merge macandrews forbes group dlrs shr cash
+
+43. (h07)
+ napa valley bancorp <unk> qtr net shr cts cts net
+
+44. (h04)
+ roto rooter inc roto qtr net shr cts cts net revs mln
+
+45. (h04)
+ rio tinto zinc corp plc pretax profit mln stg mln rio tinto zinc corp plc pretax profit mln stg mln
+
+46. (h04)
+ rowe furniture corp rowe qtr feb shr cts cts net revs mln mln
+
+47. (h03)
+ dotronix <unk> completes acquisition dotronix inc said completed acquisition video monitors inc mln dlrs video monitors privately owned wisconsin based manufacturer video display video monitor <unk>
+
+48. (h04)
+ bancorp <unk> qtr net shr cts cts net mln mln avg shrs mln mln
+
+49. (h04)
+ <unk> corp <unk> qtr net shr cts cts net mln mln revs mln mln
+
+50. (h04)
+ tandy corp <unk> qtr sept net shr cts cts net mln mln revs mln mln avg shrs mln mln
+

@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ <unk> <unk>
+
+02. (h04)
+ dir
+
+03. (h04)
+ isbn
+
+04. (h04)
+ autodesk bbs
+
+05. (h08)
+ mhz iisi
+
+06. (h04)
+ commodore cdtv
+
+07. (h04)
+ unsubscribe
+
+08. (h04)
+ unsubscribe
+
+09. (h08)
+ deleted
+
+10. (h08)
+ polysyllabic polysyllabic
+
+11. (h04)
+ lou gehrig <unk>
+
+12. (h08)
+ ken
+
+13. (h04)
+ apr <unk> ists dchhabra stpl ists
+
+14. (h04)
+ david
+
+15. (h04)
+ <unk> jeremy scott noonan
+
+16. (h04)
+ italy sweden canada sweden russia italy
+
+17. (h01)
+ pierre turgeon islanders
+
+18. (h09)
+ compuserve com
+
+19. (h04)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+20. (h04)
+ mjones donald aix kingston ibm com
+
+21. (h08)
+ exit
+
+22. (h04)
+ bill mcd
+
+23. (h04)
+ <unk> phones
+
+24. (h06)
+ dino ciccarelli ray sheppard
+
+25. (h06)
+ posted
+
+26. (h08)
+ test
+
+27. (h08)
+ test
+
+28. (h02)
+ please subscrive
+
+29. (h02)
+ please subscrive
+
+30. (h04)
+ dreams
+
+31. (h09)
+ ernest <unk> <unk> sage purdue edu <unk> sage <unk>
+
+32. (h04)
+ dancing <unk>
+
+33. (h04)
+ jesus peace
+
+34. (h05)
+ objects <unk>
+
+35. (h04)
+ cheek
+
+36. (h07)
+ career mattingly
+
+37. (h04)
+ secrecy lds ceremonies clh
+
+38. (h04)
+ <unk> <unk> project arizona
+
+39. (h07)
+ <unk> order
+
+40. (h08)
+ ignore
+
+41. (h08)
+ religious fanaticism
+
+42. (h04)
+ fuhr rings <unk> errey bob rings
+
+43. (h05)
+ mistake
+
+44. (h04)
+ abolish cults
+
+45. (h07)
+ ultimate <unk>
+
+46. (h04)
+ comp graphics faq
+
+47. (h04)
+ bullshit
+
+48. (h08)
+ shut andi
+
+49. (h04)
+ alt law enforcement
+
+50. (h07)
+ liar cheat <unk>
+

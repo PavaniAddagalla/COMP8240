@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ <unk>
+
+02. (h00)
+ <unk> <unk>
+
+03. (h00)
+ dir
+
+04. (h00)
+ isbn
+
+05. (h00)
+ polysyllabic polysyllabic
+
+06. (h00)
+ commodore cdtv
+
+07. (h00)
+ unsubscribe
+
+08. (h00)
+ unsubscribe
+
+09. (h00)
+ mhz iisi
+
+10. (h02)
+ deleted
+
+11. (h00)
+ autodesk bbs
+
+12. (h00)
+ ken
+
+13. (h00)
+ lou gehrig <unk>
+
+14. (h02)
+ posted
+
+15. (h02)
+ exit
+
+16. (h01)
+ dreams
+
+17. (h00)
+ apr <unk> ists <unk> <unk> ists
+
+18. (h02)
+ consistently
+
+19. (h02)
+ please subscrive
+
+20. (h02)
+ please subscrive
+
+21. (h00)
+ david
+
+22. (h02)
+ ignore
+
+23. (h02)
+ test
+
+24. (h02)
+ test
+
+25. (h01)
+ dancing <unk>
+
+26. (h02)
+ unfortunately
+
+27. (h02)
+ mistake
+
+28. (h00)
+ <unk> jeremy scott noonan
+
+29. (h01)
+ objects <unk>
+
+30. (h01)
+ career mattingly
+
+31. (h00)
+ italy sweden canada sweden russia italy
+
+32. (h01)
+ alt law enforcement
+
+33. (h01)
+ <unk> phones
+
+34. (h02)
+ joke
+
+35. (h02)
+ ultimate <unk>
+
+36. (h02)
+ simple
+
+37. (h01)
+ religious fanaticism
+
+38. (h02)
+ tell
+
+39. (h01)
+ <unk> order
+
+40. (h00)
+ bullshit
+
+41. (h02)
+ good
+
+42. (h02)
+ yes
+
+43. (h00)
+ alt religion spam
+
+44. (h02)
+ got <unk>
+
+45. (h02)
+ <unk> weasel <unk> later
+
+46. (h00)
+ bill mcd
+
+47. (h02)
+ wanted sips
+
+48. (h00)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+49. (h01)
+ urban areas
+
+50. (h00)
+ liar cheat <unk>
+

@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h01)
+ polysyllabic polysyllabic
+
+02. (h01)
+ apr <unk> ists <unk> <unk> ists
+
+03. (h00)
+ autodesk bbs
+
+04. (h04)
+ dir
+
+05. (h03)
+ unsubscribe
+
+06. (h03)
+ unsubscribe
+
+07. (h03)
+ bullshit
+
+08. (h04)
+ commodore cdtv
+
+09. (h03)
+ yep
+
+10. (h04)
+ mhz iisi
+
+11. (h01)
+ isbn
+
+12. (h00)
+ <unk> <unk>
+
+13. (h04)
+ pierre turgeon islanders
+
+14. (h04)
+ dino ciccarelli ray sheppard
+
+15. (h03)
+ compuserve com
+
+16. (h03)
+ lou gehrig <unk>
+
+17. (h04)
+ <unk> jeremy scott noonan
+
+18. (h00)
+ deleted
+
+19. (h03)
+ cheek
+
+20. (h01)
+ ernest <unk> <unk> sage purdue edu <unk> sage <unk>
+
+21. (h03)
+ ken
+
+22. (h00)
+ comp graphics faq
+
+23. (h04)
+ xli xloadimage goto flag
+
+24. (h04)
+ fox <unk> dave feustel nmyi feustel netcom com
+
+25. (h03)
+ liar cheat <unk>
+
+26. (h04)
+ posted
+
+27. (h00)
+ article <unk> sys bison baden sys bison baden bari
+
+28. (h03)
+ brandon wise <unk> nyx edu
+
+29. (h02)
+ abolish cults
+
+30. (h02)
+ exit
+
+31. (h04)
+ mjones donald aix kingston ibm com
+
+32. (h02)
+ <unk> file dis <unk> file tga
+
+33. (h04)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+34. (h02)
+ shut andi
+
+35. (h04)
+ career mattingly
+
+36. (h04)
+ caching drive
+
+37. (h03)
+ dancing <unk>
+
+38. (h04)
+ <unk> phones
+
+39. (h02)
+ xli xloadimage imagemagick export lcs mit edu contrib
+
+40. (h00)
+ quoting dougb ecs comm mot com article apr <unk> comm mot com
+
+41. (h04)
+ david
+
+42. (h04)
+ flat engine
+
+43. (h04)
+ fuhr rings <unk> errey bob rings
+
+44. (h00)
+ article apr nmt edu erickson <unk> nmt edu alan erickson
+
+45. (h02)
+ bill mcd
+
+46. (h03)
+ okay okay forgot <unk>
+
+47. (h00)
+ objects ufos
+
+48. (h03)
+ <unk> subscrive please subscribe
+
+49. (h03)
+ please subscribe
+
+50. (h03)
+ please subscribe
+

@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ <unk> <unk>
+
+02. (h04)
+ dir
+
+03. (h04)
+ isbn
+
+04. (h04)
+ commodore cdtv
+
+05. (h04)
+ mhz iisi
+
+06. (h04)
+ autodesk bbs
+
+07. (h02)
+ unsubscribe
+
+08. (h02)
+ unsubscribe
+
+09. (h00)
+ polysyllabic polysyllabic
+
+10. (h02)
+ deleted
+
+11. (h04)
+ lou gehrig <unk>
+
+12. (h04)
+ ken
+
+13. (h02)
+ exit
+
+14. (h01)
+ <unk> phones
+
+15. (h04)
+ <unk> jeremy scott noonan
+
+16. (h04)
+ david
+
+17. (h01)
+ test
+
+18. (h01)
+ test
+
+19. (h04)
+ apr <unk> ists <unk> <unk> ists
+
+20. (h02)
+ posted
+
+21. (h04)
+ italy sweden canada sweden russia italy
+
+22. (h01)
+ dancing <unk>
+
+23. (h04)
+ compuserve com
+
+24. (h01)
+ career mattingly
+
+25. (h01)
+ bill mcd
+
+26. (h01)
+ dreams
+
+27. (h01)
+ cheek
+
+28. (h04)
+ mjones donald aix kingston ibm com
+
+29. (h04)
+ pierre turgeon islanders
+
+30. (h01)
+ mistake
+
+31. (h04)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+32. (h03)
+ please subscrive
+
+33. (h03)
+ please subscrive
+
+34. (h02)
+ ignore
+
+35. (h00)
+ ultimate <unk>
+
+36. (h01)
+ <unk> order
+
+37. (h01)
+ joke
+
+38. (h00)
+ unfortunately
+
+39. (h00)
+ consistently
+
+40. (h00)
+ simple
+
+41. (h01)
+ bullshit
+
+42. (h04)
+ dino ciccarelli ray sheppard
+
+43. (h01)
+ alt law enforcement
+
+44. (h02)
+ caching drive
+
+45. (h01)
+ ego trip
+
+46. (h03)
+ wanted sips
+
+47. (h02)
+ yes
+
+48. (h04)
+ ernest <unk> <unk> sage purdue edu <unk> sage <unk>
+
+49. (h01)
+ religious fanaticism
+
+50. (h00)
+ good
+

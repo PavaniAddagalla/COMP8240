@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h03)
+ jun jun
+
+02. (h03)
+ jun jun
+
+03. (h03)
+ apr apr
+
+04. (h03)
+ apr apr
+
+05. (h03)
+ apr apr
+
+06. (h03)
+ oct oct
+
+07. (h03)
+ oct oct
+
+08. (h03)
+ oct oct
+
+09. (h03)
+ oct oct
+
+10. (h03)
+ oct oct
+
+11. (h03)
+ walgreen qtr shr cts cts walgreen qtr shr cts cts
+
+12. (h03)
+ rubbermaid inc qtr shr cts cts rubbermaid inc qtr shr cts cts
+
+13. (h03)
+ whirlpool corp qtr shr cts cts whirlpool corp qtr shr cts cts
+
+14. (h03)
+ gte corp qtr shr cts cts gte corp qtr shr cts cts
+
+15. (h03)
+ ncr corp qtr shr cts cts ncr corp qtr shr cts cts
+
+16. (h04)
+ spectra physics rejects ciba geigy tender offer spectra physics rejects ciba geigy tender offer
+
+17. (h00)
+ trump interstate properties talks acquire alexanders trump interstate properties talks acquire alexanders
+
+18. (h03)
+ mead corp qtr oper shr dlrs cts mead corp qtr oper shr dlrs cts
+
+19. (h00)
+ basin pipeline texas okla border washed floods bpd crude affected basin pipeline texas okla border washed floods bpd crude affected
+
+20. (h04)
+ westinghouse electric corp qtr shr dlrs cts westinghouse electric corp qtr shr dlrs cts
+
+21. (h00)
+ simon schuster acquire woodhead faulkner undisclosed terms simon schuster acquire woodhead faulkner undisclosed terms
+
+22. (h00)
+ sumita welcomes west german joint confirmation louvre accord sumita welcomes west german joint confirmation louvre accord
+
+23. (h04)
+ raytheon qtr shr dlrs dlrs raytheon qtr shr dlrs dlrs
+
+24. (h00)
+ shipping sources say unidentified jets raid iranian oil platforms southern gulf shipping sources say unidentified jets raid iranian oil platforms southern gulf
+
+25. (h00)
+ circle express terminates planned acquisition overland express circle express terminates planned acquisition overland express
+
+26. (h04)
+ abbott laboratories qtr net shr cts cts abbott laboratories qtr net shr cts cts
+
+27. (h00)
+ tecsyn international terminates takeover talks investor group tecsyn international terminates takeover talks investor group
+
+28. (h04)
+ roto rooter inc roto qtr net shr cts cts net revs mln
+
+29. (h04)
+ boeing acquire argosystems dlrs share boeing acquire argosystems dlrs share
+
+30. (h04)
+ greyhound lines agrees acquire remaining routes trailways corp greyhound lines agrees acquire remaining routes trailways corp
+
+31. (h02)
+ henley group reviewing investment santa southern pacific henley group reviewing investment santa southern pacific
+
+32. (h00)
+ crazy eddie inc says oppose slate entertainment marketing crazy eddie inc says oppose slate entertainment marketing
+
+33. (h00)
+ thomson grand public takes thorn emi audiovisual division thomson thomson grand public takes thorn emi audiovisual division thomson
+
+34. (h02)
+ wells fargo qtr shr dlrs dlrs wells fargo qtr shr dlrs dlrs
+
+35. (h00)
+ weinberger says forces attacked iranian oil platform weinberger says forces attacked iranian oil platform
+
+36. (h04)
+ <unk> corp <unk> qtr mar shr cts cts net revs mln mln
+
+37. (h04)
+ rio tinto zinc corp plc pretax profit mln stg mln rio tinto zinc corp plc pretax profit mln stg mln
+
+38. (h00)
+ telex corp investigate alternatives tlx partners bid may seek purchasers telex corp investigate alternatives tlx partners bid may seek purchasers
+
+39. (h00)
+ united telecommunications inc qtr shr cts cts united telecommunications inc qtr shr cts cts
+
+40. (h00)
+ barco directors approve buyout offer senior management barco directors approve buyout offer senior management
+
+41. (h04)
+ <unk> acquire prince mln dlrs <unk> acquire prince mln dlrs
+
+42. (h02)
+ morgan inc qtr shr dlrs dlrs morgan inc qtr shr dlrs dlrs
+
+43. (h04)
+ napa valley bancorp <unk> qtr net shr cts cts net
+
+44. (h00)
+ pentagon says warships begin <unk> gulf tanker convoy south kuwait pentagon says warships begin <unk> gulf tanker convoy south kuwait
+
+45. (h04)
+ bancorp <unk> qtr net shr cts cts net mln mln avg shrs mln mln
+
+46. (h04)
+ <unk> microsystems inc <unk> qtr loss shr loss cts loss cts net loss loss revs avg shrs
+
+47. (h04)
+ <unk> corp ohio <unk> qtr net shr cts cts net
+
+48. (h04)
+ tandy corp <unk> qtr sept net shr cts cts net mln mln revs mln mln avg shrs mln mln
+
+49. (h04)
+ <unk> corp <unk> qtr net shr cts cts net mln mln revs mln mln
+
+50. (h04)
+ <unk> corp <unk> qtr sept net shr cts cts net revs mln mln avg shrs mln mln
+

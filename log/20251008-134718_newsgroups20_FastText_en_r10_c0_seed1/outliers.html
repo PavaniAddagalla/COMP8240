@@ -1,0 +1,69 @@
+
+    <html lang="en">
+    <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <style>
+    body {
+    font-family: Sans-Serif;
+    }
+    </style>
+    </head>
+    <body>
+    <h3>
+    Visualization of Self-Attention Weights
+    </h3>
+    </body>
+    <script>
+    var any_text = ["<unk> <unk>","<unk>","isbn","dir","commodore cdtv","mhz iisi","autodesk bbs","unsubscribe","unsubscribe","polysyllabic polysyllabic","lou gehrig <unk>","deleted","ken","jsn jeremy scott noonan","david","italy sweden canada sweden russia italy","apr <unk> ists <unk> <unk> ists","mjones donald aix kingston ibm com","pierre turgeon islanders","<unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david","bill mcd","ernest <unk> jcs sage purdue edu <unk> sage jcs","exit","dancing <unk>","dreams","compuserve com","dino ciccarelli ray sheppard","<unk> phones","jesus peace","posted","test","test","please subscrive","please subscrive","career mattingly","objects <unk>","religious fanaticism","mistake","secrecy lds ceremonies clh","abolish cults","bullshit","ultimate <unk>","caching drive","fox <unk> dave feustel nmyi feustel netcom com","shut andi","joke","<unk> order","ignore","ego trip","alt law enforcement"];
+var att_heads = [0,0,8,0,0,0,8,5,5,7,2,8,6,6,6,6,1,5,7,5,2,3,1,7,1,0,7,0,1,4,1,1,5,5,1,1,0,8,1,0,7,7,7,6,3,7,8,9,0,0];
+var trigram_weights = [[0.5, 0.5],[0.5],[0.049593906849622726],[0.09284842014312744],[0.3248996138572693, 0.6751003861427307],[0.030279383063316345, 0.3232401907444],[0.640272855758667, 0.359727144241333],[0.0850694552063942],[0.0850694552063942],[0.08171426504850388, 0.08171426504850388],[0.18948741257190704, 0.2701708674430847, 0.2701708674430847],[0.5054250359535217],[0.5929730534553528],[0.13413311541080475, 0.055635955184698105, 0.1395653486251831, 0.13413311541080475],[0.39183366298675537],[0.15803803503513336, 0.1727437824010849, 0.18406729400157928, 0.1727437824010849, 0.15436910092830658, 0.15803803503513336],[0.1253587156534195, 0.20075677335262299, 0.13618548214435577, 0.20075677335262299, 0.20075677335262299, 0.13618548214435577],[0.20504489541053772, 0.16631881892681122, 0.07118501514196396, 0.11900695413351059, 0.12613393366336823, 0.10726545006036758],[0.13679781556129456, 0.3002654016017914, 0.2626713812351227],[0.1167801022529602, 0.1167801022529602, 0.1167801022529602, 0.1167801022529602, 0.0646456778049469, 0.025493113324046135, 0.04399247467517853, 0.1167801022529602, 0.1167801022529602, 0.0646456778049469, 0.025493113324046135, 0.07504943013191223],[0.8741723895072937, 0.1258275806903839],[0.09396164864301682, 0.1099167987704277, 0.1099167987704277, 0.20040276646614075, 0.04200316220521927, 0.023562392219901085, 0.1099167987704277, 0.20040276646614075, 0.1099167987704277],[0.5548886656761169],[0.6304607391357422, 0.3695392608642578],[0.6410269141197205],[0.6330046653747559, 0.36699536442756653],[0.2346344143152237, 0.3675955832004547, 0.23174044489860535, 0.16602954268455505],[0.5653777718544006, 0.43462225794792175],[0.30137011408805847, 0.6986299157142639],[0.26855844259262085],[0.6386671662330627],[0.6386671662330627],[0.5903975367546082, 0.40960249304771423],[0.5903975367546082, 0.40960249304771423],[0.1341685652732849, 0.12369021028280258],[0.5851654410362244, 0.41483455896377563],[0.6167984008789062, 0.38320159912109375],[0.7050489783287048],[0.18588918447494507, 0.19839967787265778, 0.3031984865665436, 0.3125126361846924],[0.2027280628681183, 0.03856480494141579],[0.6713111996650696],[0.7163762450218201, 0.2836237847805023],[0.548366367816925, 0.45163360238075256],[0.1194712370634079, 0.1172385960817337, 0.11548257619142532, 0.1172385960817337, 0.1172385960817337, 0.1172385960817337, 0.1172385960817337, 0.06161456182599068],[0.5675345063209534, 0.43246549367904663],[0.506618857383728],[0.2662597894668579, 0.7337402105331421],[0.6898863911628723],[0.5476632118225098, 0.45233678817749023],[0.03806512430310249, 0.33363795280456543, 0.3918168842792511]];
+var example_range = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50];
+
+    var color = "255,0,0";
+    var ngram_length = 3;
+    var half_ngram = 1;
+    for (var k=0; k < any_text.length; k++) {
+    var tokens = any_text[k].split(" ");
+    var intensity = new Array(tokens.length);
+    var max_intensity = Number.MIN_SAFE_INTEGER;
+    var min_intensity = Number.MAX_SAFE_INTEGER;
+    for (var i = 0; i < intensity.length; i++) {
+    intensity[i] = 0.0;
+    for (var j = -half_ngram; j < ngram_length-half_ngram; j++) {
+    if (i+j < intensity.length && i+j > -1) {
+    intensity[i] += trigram_weights[k][i + j];
+    }
+    }
+    if (i == 0 || i == intensity.length-1) {
+    intensity[i] /= 2.0;
+    } else {
+    intensity[i] /= 3.0;
+    }
+    if (intensity[i] > max_intensity) {
+    max_intensity = intensity[i];
+    }
+    if (intensity[i] < min_intensity) {
+    min_intensity = intensity[i];
+    }
+    }
+    var denominator = max_intensity - min_intensity;
+    for (var i = 0; i < intensity.length; i++) {
+    intensity[i] = (intensity[i] - min_intensity) / denominator;
+    }
+    if (k%2 == 0) {
+    var heat_text = "<p><br><b>" + example_range[k] + ". (h" + att_heads[k] + ")</b><br>";
+    } else {
+    var heat_text = "<b>" + example_range[k] + ". (h" + att_heads[k] + ")</b><br>";
+    }
+    var space = "";
+    for (var i = 0; i < tokens.length; i++) {
+    heat_text += "<span style='background-color:rgba(" + color + "," + intensity[i] + ")'>" + space + tokens[i] + "</span>";
+    if (space == "") {
+    space = " ";
+    }
+    }
+    //heat_text += "<p>";
+    document.body.innerHTML += heat_text;
+    }
+    </script>
+    </html>

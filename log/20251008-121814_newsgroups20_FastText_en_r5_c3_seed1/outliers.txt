@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ <unk>
+
+02. (h00)
+ <unk> <unk>
+
+03. (h00)
+ dir
+
+04. (h00)
+ isbn
+
+05. (h00)
+ commodore cdtv
+
+06. (h00)
+ mhz iisi
+
+07. (h00)
+ unsubscribe
+
+08. (h00)
+ unsubscribe
+
+09. (h00)
+ autodesk bbs
+
+10. (h02)
+ polysyllabic polysyllabic
+
+11. (h04)
+ deleted
+
+12. (h00)
+ ken
+
+13. (h00)
+ lou gehrig <unk>
+
+14. (h00)
+ apr <unk> ists <unk> <unk> ists
+
+15. (h00)
+ david
+
+16. (h02)
+ dreams
+
+17. (h00)
+ <unk> jeremy scott noonan
+
+18. (h00)
+ italy sweden canada sweden russia italy
+
+19. (h03)
+ exit
+
+20. (h01)
+ dancing <unk>
+
+21. (h00)
+ please subscrive
+
+22. (h00)
+ please subscrive
+
+23. (h01)
+ objects <unk>
+
+24. (h01)
+ career mattingly
+
+25. (h01)
+ <unk> phones
+
+26. (h02)
+ test
+
+27. (h02)
+ test
+
+28. (h04)
+ posted
+
+29. (h02)
+ mistake
+
+30. (h04)
+ unfortunately
+
+31. (h01)
+ alt law enforcement
+
+32. (h04)
+ consistently
+
+33. (h02)
+ joke
+
+34. (h00)
+ bill mcd
+
+35. (h00)
+ pierre turgeon islanders
+
+36. (h01)
+ alt religion spam
+
+37. (h03)
+ ignore
+
+38. (h00)
+ bullshit
+
+39. (h02)
+ religious fanaticism
+
+40. (h01)
+ <unk> order
+
+41. (h02)
+ ultimate <unk>
+
+42. (h00)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+43. (h00)
+ yes
+
+44. (h00)
+ compuserve com
+
+45. (h02)
+ simple
+
+46. (h00)
+ mjones donald aix kingston ibm com
+
+47. (h02)
+ <unk> weasel <unk> later
+
+48. (h00)
+ jesus peace
+
+49. (h03)
+ tell
+
+50. (h00)
+ dino ciccarelli ray sheppard
+

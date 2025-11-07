@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ <unk> <unk>
+
+02. (h00)
+ <unk>
+
+03. (h01)
+ dir
+
+04. (h01)
+ isbn
+
+05. (h01)
+ commodore cdtv
+
+06. (h01)
+ autodesk bbs
+
+07. (h01)
+ mhz iisi
+
+08. (h01)
+ unsubscribe
+
+09. (h01)
+ unsubscribe
+
+10. (h02)
+ deleted
+
+11. (h01)
+ lou gehrig <unk>
+
+12. (h00)
+ polysyllabic polysyllabic
+
+13. (h01)
+ ken
+
+14. (h01)
+ <unk> jeremy scott noonan
+
+15. (h01)
+ david
+
+16. (h01)
+ apr <unk> ists <unk> <unk> ists
+
+17. (h01)
+ italy sweden canada sweden russia italy
+
+18. (h01)
+ mjones donald aix kingston ibm com
+
+19. (h01)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+20. (h01)
+ exit
+
+21. (h01)
+ compuserve com
+
+22. (h01)
+ dino ciccarelli ray sheppard
+
+23. (h01)
+ pierre turgeon islanders
+
+24. (h01)
+ bill mcd
+
+25. (h01)
+ <unk> phones
+
+26. (h01)
+ dancing <unk>
+
+27. (h02)
+ posted
+
+28. (h01)
+ test
+
+29. (h01)
+ test
+
+30. (h01)
+ dreams
+
+31. (h01)
+ jesus peace
+
+32. (h02)
+ please subscrive
+
+33. (h02)
+ please subscrive
+
+34. (h01)
+ ernest <unk> <unk> sage purdue edu <unk> sage <unk>
+
+35. (h00)
+ ignore
+
+36. (h00)
+ shut andi
+
+37. (h01)
+ career mattingly
+
+38. (h01)
+ fox <unk> dave feustel nmyi feustel netcom com
+
+39. (h01)
+ kent wife
+
+40. (h01)
+ bullshit
+
+41. (h01)
+ objects <unk>
+
+42. (h01)
+ mistake
+
+43. (h01)
+ joke
+
+44. (h01)
+ secrecy lds ceremonies clh
+
+45. (h01)
+ alt religion spam
+
+46. (h01)
+ liar cheat <unk>
+
+47. (h02)
+ please subscribe
+
+48. (h02)
+ please subscribe
+
+49. (h02)
+ please subscribe
+
+50. (h02)
+ <unk> subscrive please subscribe
+

@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h08)
+ jun jun
+
+02. (h08)
+ jun jun
+
+03. (h02)
+ oct oct
+
+04. (h02)
+ oct oct
+
+05. (h02)
+ oct oct
+
+06. (h02)
+ oct oct
+
+07. (h02)
+ oct oct
+
+08. (h02)
+ apr apr
+
+09. (h02)
+ apr apr
+
+10. (h02)
+ apr apr
+
+11. (h08)
+ walgreen qtr shr cts cts walgreen qtr shr cts cts
+
+12. (h08)
+ raytheon qtr shr dlrs dlrs raytheon qtr shr dlrs dlrs
+
+13. (h02)
+ rubbermaid inc qtr shr cts cts rubbermaid inc qtr shr cts cts
+
+14. (h02)
+ ncr corp qtr shr cts cts ncr corp qtr shr cts cts
+
+15. (h02)
+ gte corp qtr shr cts cts gte corp qtr shr cts cts
+
+16. (h08)
+ wells fargo qtr shr dlrs dlrs wells fargo qtr shr dlrs dlrs
+
+17. (h08)
+ morgan inc qtr shr dlrs dlrs morgan inc qtr shr dlrs dlrs
+
+18. (h02)
+ mead corp qtr oper shr dlrs cts mead corp qtr oper shr dlrs cts
+
+19. (h02)
+ whirlpool corp qtr shr cts cts whirlpool corp qtr shr cts cts
+
+20. (h08)
+ corby distilleries ltd buy heublein <unk> distillers mln canadian dlrs corby distilleries ltd buy heublein <unk> distillers mln canadian dlrs
+
+21. (h00)
+ abbott laboratories qtr net shr cts cts abbott laboratories qtr net shr cts cts
+
+22. (h00)
+ simon schuster acquire woodhead faulkner undisclosed terms simon schuster acquire woodhead faulkner undisclosed terms
+
+23. (h00)
+ boeing acquire argosystems dlrs share boeing acquire argosystems dlrs share
+
+24. (h02)
+ bancorp <unk> qtr net shr cts cts net mln mln avg shrs mln mln
+
+25. (h02)
+ napa valley bancorp <unk> qtr net shr cts cts net
+
+26. (h02)
+ <unk> corp ohio <unk> qtr net shr cts cts net
+
+27. (h01)
+ roto rooter inc roto qtr net shr cts cts net revs mln
+
+28. (h02)
+ <unk> corp <unk> qtr net shr dlrs dlr net
+
+29. (h00)
+ united telecommunications inc qtr shr cts cts united telecommunications inc qtr shr cts cts
+
+30. (h00)
+ thomson grand public takes thorn emi audiovisual division thomson thomson grand public takes thorn emi audiovisual division thomson
+
+31. (h00)
+ <unk> acquire prince mln dlrs <unk> acquire prince mln dlrs
+
+32. (h01)
+ <unk> bancorp inc <unk> qtr net shr dlrs dlrs net avg shrs
+
+33. (h02)
+ ohio <unk> <unk> qtr net shr cts cts net mln mln revs mln mln avg shrs mln mln mths shr dlrs dlrs net mln mln revs billion billion avg shrs mln mln
+
+34. (h02)
+ westport bancorp inc <unk> qtr net shr cts cts net nine mths shr cts dlrs net
+
+35. (h00)
+ westinghouse electric corp qtr shr dlrs cts westinghouse electric corp qtr shr dlrs cts
+
+36. (h00)
+ circle express terminates planned acquisition overland express circle express terminates planned acquisition overland express
+
+37. (h00)
+ spectra physics rejects ciba geigy tender offer spectra physics rejects ciba geigy tender offer
+
+38. (h02)
+ john <unk> qtr net shr cts cts net mln revs mln mln
+
+39. (h02)
+ <unk> inc <unk> qtr net shr cts cts net mln revs mln mln avg shrs mln mln nine mths shr dlrs cts net mln revs mln mln avg shrs mln mln
+
+40. (h02)
+ <unk> corp <unk> qtr net shr cts cts net mln mln revs mln mln
+
+41. (h02)
+ raytheon <unk> qtr net shr dlrs dlrs net mln mln revs billion billion avg shrs mln mln
+
+42. (h02)
+ jannock ltd qtr net shr cts cts net mln mln revs mln mln nine mths shr dlrs dlrs net mln mln revs mln mln
+
+43. (h02)
+ tandy corp <unk> qtr sept net shr cts cts net mln mln revs mln mln avg shrs mln mln
+
+44. (h02)
+ <unk> bancorp <unk> qtr net shr cts cts net nine mths shr dlrs dlrs net mln mln
+
+45. (h00)
+ sumita welcomes west german joint confirmation louvre accord sumita welcomes west german joint confirmation louvre accord
+
+46. (h02)
+ rio tinto zinc corp plc pretax profit mln stg mln rio tinto zinc corp plc pretax profit mln stg mln
+
+47. (h02)
+ roto rooter inc roto qtr net shr cts cts net revs mln mln nine mths shr cts cts net revs mln mln
+
+48. (h00)
+ marine corp <unk> qtr net shr cts cts net nine mths shr cts cts net
+
+49. (h02)
+ <unk> bancshares inc <unk> qtr net shr cts cts net nine mths shr dlrs dlrs net
+
+50. (h01)
+ <unk> inc cal qtr net shr dlrs dlrs diluted shr dlrs dlrs net mln mln nine months shr dlrs dlrs diluted shr dlrs dlrs net mln mln
+

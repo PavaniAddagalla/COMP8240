@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h01)
+ apr apr
+
+02. (h01)
+ apr apr
+
+03. (h01)
+ apr apr
+
+04. (h01)
+ oct oct
+
+05. (h01)
+ oct oct
+
+06. (h01)
+ oct oct
+
+07. (h01)
+ oct oct
+
+08. (h01)
+ oct oct
+
+09. (h02)
+ jun jun
+
+10. (h02)
+ jun jun
+
+11. (h01)
+ walgreen qtr shr cts cts walgreen qtr shr cts cts
+
+12. (h01)
+ ford raises qtly payout cts shr cts ford raises qtly payout cts shr cts
+
+13. (h04)
+ ncr corp qtr shr cts cts ncr corp qtr shr cts cts
+
+14. (h04)
+ whirlpool corp qtr shr cts cts whirlpool corp qtr shr cts cts
+
+15. (h01)
+ abbott laboratories qtr net shr cts cts abbott laboratories qtr net shr cts cts
+
+16. (h03)
+ basin pipeline texas okla border washed floods bpd crude affected basin pipeline texas okla border washed floods bpd crude affected
+
+17. (h04)
+ gte corp qtr shr cts cts gte corp qtr shr cts cts
+
+18. (h04)
+ rubbermaid inc qtr shr cts cts rubbermaid inc qtr shr cts cts
+
+19. (h03)
+ sumita welcomes west german joint confirmation louvre accord sumita welcomes west german joint confirmation louvre accord
+
+20. (h01)
+ napa valley bancorp <unk> qtr net shr cts cts net
+
+21. (h03)
+ balladur urges respect pledges monetary policy louvre accord balladur urges respect pledges monetary policy louvre accord
+
+22. (h00)
+ spectra physics rejects ciba geigy tender offer spectra physics rejects ciba geigy tender offer
+
+23. (h03)
+ stoltenberg rule central bank intervention stabilize currencies stoltenberg rule central bank intervention stabilize currencies
+
+24. (h03)
+ shell canada raises crude oil posting canadian cts bbl shell canada raises crude oil posting canadian cts bbl
+
+25. (h01)
+ <unk> savings bank <unk> qtr net shr cts cts net avg shrs
+
+26. (h03)
+ imperial oil raises crude oil postings canadian cts bbl light sweet imperial oil raises crude oil postings canadian cts bbl light sweet
+
+27. (h03)
+ marathon raised crude posted prices cts barrel effective october marathon raised crude posted prices cts barrel effective october
+
+28. (h01)
+ permian raises crude oil postings cts bbl wti dlrs permian raises crude oil postings cts bbl wti dlrs
+
+29. (h01)
+ <unk> <unk> bank trust <unk> qtr net shr cts cts shr diluted cts cts net avg shrs avg shrs diluted
+
+30. (h03)
+ <unk> valley <unk> qtr net qtr ended april shr seven cts cts net revs
+
+31. (h01)
+ marathon raises crude oil postings cts bbl wti dlrs marathon raises crude oil postings cts bbl wti dlrs
+
+32. (h01)
+ <unk> <unk> <unk> qtr net shr cts cts net sales mln mln avg shrs
+
+33. (h01)
+ bancorp usbc qtr net shr cts cts net mln mln avg shrs mln mln
+
+34. (h01)
+ quaker oats oat qtr sept net shr cts cts net mln mln sales billion mln avg shrs
+
+35. (h01)
+ wells fargo qtr shr dlrs dlrs wells fargo qtr shr dlrs dlrs
+
+36. (h03)
+ stoltenberg declines comment possible changed targets currencies stoltenberg declines comment possible changed targets currencies
+
+37. (h01)
+ john <unk> qtr net shr cts cts net mln revs mln mln
+
+38. (h02)
+ stoltenberg says assumes monetary cooperation continue stoltenberg says assumes monetary cooperation continue
+
+39. (h03)
+ treasury baker met west germany stoltenberg today agreed support louvre pact treasury baker met west germany stoltenberg today agreed support louvre pact
+
+40. (h02)
+ fed johnson says louvre accord alive cites german differences fed johnson says louvre accord alive cites german differences
+
+41. (h02)
+ miyazawa says baker remarks aimed reaffirming louvre agreement miyazawa says baker remarks aimed reaffirming louvre agreement
+
+42. (h01)
+ neworld bank savings <unk> qtr net oper shr cts cts oper net note net excludes dlr tax credit
+
+43. (h02)
+ miyazawa says still strongly supports louvre accord miyazawa says still strongly supports louvre accord
+
+44. (h04)
+ <unk> corp ohio <unk> qtr net shr cts cts net
+
+45. (h03)
+ wells fargo wfc raises quarterly div qtly div cts cts pay jan record dec
+
+46. (h02)
+ stoltenberg says meeting baker underscored monetary cooperation stoltenberg says meeting baker underscored monetary cooperation
+
+47. (h03)
+ arco raises crude oil prices cts barrel today wti arco raises crude oil prices cts barrel today wti
+
+48. (h01)
+ ohio edison <unk> qtr net shr cts cts net mln mln revs mln mln avg shrs mln mln mths shr dlrs dlrs net mln mln revs billion billion avg shrs mln mln
+
+49. (h03)
+ stop shop cos split hikes dividend stop shop cos split hikes dividend
+
+50. (h03)
+ <unk> participating mortgage trust <unk> div qtly div cts cts prior payable may record april
+

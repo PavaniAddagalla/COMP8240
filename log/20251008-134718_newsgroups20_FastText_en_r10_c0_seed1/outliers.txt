@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ <unk> <unk>
+
+02. (h00)
+ <unk>
+
+03. (h08)
+ isbn
+
+04. (h00)
+ dir
+
+05. (h00)
+ commodore cdtv
+
+06. (h00)
+ mhz iisi
+
+07. (h08)
+ autodesk bbs
+
+08. (h05)
+ unsubscribe
+
+09. (h05)
+ unsubscribe
+
+10. (h07)
+ polysyllabic polysyllabic
+
+11. (h02)
+ lou gehrig <unk>
+
+12. (h08)
+ deleted
+
+13. (h06)
+ ken
+
+14. (h06)
+ jsn jeremy scott noonan
+
+15. (h06)
+ david
+
+16. (h06)
+ italy sweden canada sweden russia italy
+
+17. (h01)
+ apr <unk> ists <unk> <unk> ists
+
+18. (h05)
+ mjones donald aix kingston ibm com
+
+19. (h07)
+ pierre turgeon islanders
+
+20. (h05)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+21. (h02)
+ bill mcd
+
+22. (h03)
+ ernest <unk> jcs sage purdue edu <unk> sage jcs
+
+23. (h01)
+ exit
+
+24. (h07)
+ dancing <unk>
+
+25. (h01)
+ dreams
+
+26. (h00)
+ compuserve com
+
+27. (h07)
+ dino ciccarelli ray sheppard
+
+28. (h00)
+ <unk> phones
+
+29. (h01)
+ jesus peace
+
+30. (h04)
+ posted
+
+31. (h01)
+ test
+
+32. (h01)
+ test
+
+33. (h05)
+ please subscrive
+
+34. (h05)
+ please subscrive
+
+35. (h01)
+ career mattingly
+
+36. (h01)
+ objects <unk>
+
+37. (h00)
+ religious fanaticism
+
+38. (h08)
+ mistake
+
+39. (h01)
+ secrecy lds ceremonies clh
+
+40. (h00)
+ abolish cults
+
+41. (h07)
+ bullshit
+
+42. (h07)
+ ultimate <unk>
+
+43. (h07)
+ caching drive
+
+44. (h06)
+ fox <unk> dave feustel nmyi feustel netcom com
+
+45. (h03)
+ shut andi
+
+46. (h07)
+ joke
+
+47. (h08)
+ <unk> order
+
+48. (h09)
+ ignore
+
+49. (h00)
+ ego trip
+
+50. (h00)
+ alt law enforcement
+

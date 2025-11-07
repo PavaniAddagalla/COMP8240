@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ <unk> <unk>
+
+02. (h00)
+ <unk>
+
+03. (h01)
+ isbn
+
+04. (h01)
+ dir
+
+05. (h01)
+ commodore cdtv
+
+06. (h01)
+ autodesk bbs
+
+07. (h01)
+ unsubscribe
+
+08. (h01)
+ unsubscribe
+
+09. (h01)
+ mhz iisi
+
+10. (h02)
+ polysyllabic polysyllabic
+
+11. (h00)
+ deleted
+
+12. (h01)
+ lou gehrig <unk>
+
+13. (h01)
+ ken
+
+14. (h01)
+ apr <unk> ists <unk> <unk> ists
+
+15. (h01)
+ david
+
+16. (h01)
+ jsn jeremy scott noonan
+
+17. (h01)
+ italy sweden canada sweden russia italy
+
+18. (h01)
+ dreams
+
+19. (h00)
+ exit
+
+20. (h01)
+ dancing <unk>
+
+21. (h00)
+ posted
+
+22. (h01)
+ pierre turgeon islanders
+
+23. (h01)
+ <unk> phones
+
+24. (h01)
+ bill mcd
+
+25. (h01)
+ kent wife
+
+26. (h01)
+ secrecy lds ceremonies clh
+
+27. (h00)
+ please subscrive
+
+28. (h00)
+ please subscrive
+
+29. (h01)
+ jesus peace
+
+30. (h01)
+ career mattingly
+
+31. (h01)
+ test
+
+32. (h01)
+ test
+
+33. (h02)
+ mistake
+
+34. (h01)
+ mjones donald aix kingston ibm com
+
+35. (h01)
+ compuserve com
+
+36. (h02)
+ ultimate <unk>
+
+37. (h01)
+ ego trip
+
+38. (h01)
+ objects <unk>
+
+39. (h01)
+ dino ciccarelli ray sheppard
+
+40. (h01)
+ bullshit
+
+41. (h00)
+ ignore
+
+42. (h01)
+ joke
+
+43. (h02)
+ religious fanaticism
+
+44. (h01)
+ <unk> order
+
+45. (h01)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+46. (h01)
+ alt religion spam
+
+47. (h02)
+ consistently
+
+48. (h01)
+ ernest <unk> jcs sage purdue edu <unk> sage jcs
+
+49. (h02)
+ unfortunately
+
+50. (h01)
+ fuhr rings <unk> errey bob rings
+

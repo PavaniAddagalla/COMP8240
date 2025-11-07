@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ <unk> <unk>
+
+02. (h03)
+ isbn
+
+03. (h03)
+ dir
+
+04. (h03)
+ commodore cdtv
+
+05. (h02)
+ unsubscribe
+
+06. (h02)
+ unsubscribe
+
+07. (h03)
+ mhz iisi
+
+08. (h03)
+ autodesk bbs
+
+09. (h04)
+ polysyllabic polysyllabic
+
+10. (h03)
+ deleted
+
+11. (h03)
+ ken
+
+12. (h03)
+ lou gehrig <unk>
+
+13. (h02)
+ exit
+
+14. (h00)
+ <unk> phones
+
+15. (h03)
+ apr <unk> ists dchhabra stpl ists
+
+16. (h03)
+ david
+
+17. (h00)
+ test
+
+18. (h00)
+ test
+
+19. (h01)
+ posted
+
+20. (h00)
+ dreams
+
+21. (h00)
+ objects <unk>
+
+22. (h00)
+ dancing <unk>
+
+23. (h03)
+ <unk> jeremy scott noonan
+
+24. (h03)
+ italy sweden canada sweden russia italy
+
+25. (h00)
+ career mattingly
+
+26. (h00)
+ cheek
+
+27. (h00)
+ alt law enforcement
+
+28. (h03)
+ please subscrive
+
+29. (h03)
+ please subscrive
+
+30. (h00)
+ <unk> order
+
+31. (h02)
+ ignore
+
+32. (h03)
+ compuserve com
+
+33. (h04)
+ mistake
+
+34. (h04)
+ ultimate <unk>
+
+35. (h03)
+ bill mcd
+
+36. (h00)
+ alt religion spam
+
+37. (h01)
+ consistently
+
+38. (h03)
+ pierre turgeon islanders
+
+39. (h04)
+ simple
+
+40. (h03)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+41. (h04)
+ unfortunately
+
+42. (h00)
+ religious fanaticism
+
+43. (h00)
+ bullshit
+
+44. (h00)
+ joke
+
+45. (h00)
+ urban areas
+
+46. (h03)
+ mjones donald aix kingston ibm com
+
+47. (h04)
+ good
+
+48. (h03)
+ dino ciccarelli ray sheppard
+
+49. (h02)
+ caching drive
+
+50. (h03)
+ yes
+

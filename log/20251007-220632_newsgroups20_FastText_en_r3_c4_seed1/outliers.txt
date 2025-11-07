@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ dir
+
+02. (h00)
+ isbn
+
+03. (h00)
+ commodore cdtv
+
+04. (h00)
+ mhz iisi
+
+05. (h00)
+ unsubscribe
+
+06. (h00)
+ unsubscribe
+
+07. (h02)
+ polysyllabic polysyllabic
+
+08. (h00)
+ autodesk bbs
+
+09. (h02)
+ urn <unk>
+
+10. (h01)
+ deleted
+
+11. (h00)
+ ken
+
+12. (h00)
+ lou gehrig <unk>
+
+13. (h02)
+ exit
+
+14. (h01)
+ posted
+
+15. (h02)
+ test
+
+16. (h02)
+ test
+
+17. (h02)
+ <unk> phones
+
+18. (h02)
+ dancing <unk>
+
+19. (h02)
+ dreams
+
+20. (h02)
+ cheek
+
+21. (h01)
+ consistently
+
+22. (h01)
+ ignore
+
+23. (h00)
+ apr <unk> ists <unk> <unk> ists
+
+24. (h02)
+ ultimate <unk>
+
+25. (h00)
+ david
+
+26. (h02)
+ mistake
+
+27. (h02)
+ career mattingly
+
+28. (h01)
+ please subscrive
+
+29. (h01)
+ please subscrive
+
+30. (h01)
+ simple
+
+31. (h00)
+ <unk> jeremy scott noonan
+
+32. (h02)
+ <unk> order
+
+33. (h00)
+ compuserve com
+
+34. (h01)
+ wanted sips
+
+35. (h01)
+ unfortunately
+
+36. (h01)
+ <unk> <unk> easy poke
+
+37. (h01)
+ good
+
+38. (h02)
+ joke
+
+39. (h01)
+ inline inline correct
+
+40. (h02)
+ bill mcd
+
+41. (h02)
+ religious fanaticism
+
+42. (h00)
+ italy sweden canada sweden russia italy
+
+43. (h01)
+ tell
+
+44. (h02)
+ flat engine
+
+45. (h01)
+ got <unk>
+
+46. (h02)
+ alt religion spam
+
+47. (h02)
+ bullshit
+
+48. (h00)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+49. (h01)
+ caching drive
+
+50. (h00)
+ yes
+

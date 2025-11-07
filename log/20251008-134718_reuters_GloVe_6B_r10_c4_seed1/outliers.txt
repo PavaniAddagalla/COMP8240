@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h03)
+ apr apr
+
+02. (h03)
+ apr apr
+
+03. (h03)
+ apr apr
+
+04. (h08)
+ oct oct
+
+05. (h08)
+ oct oct
+
+06. (h08)
+ oct oct
+
+07. (h08)
+ oct oct
+
+08. (h08)
+ oct oct
+
+09. (h08)
+ rubbermaid inc qtr shr cts cts rubbermaid inc qtr shr cts cts
+
+10. (h08)
+ walgreen qtr shr cts cts walgreen qtr shr cts cts
+
+11. (h08)
+ ncr corp qtr shr cts cts ncr corp qtr shr cts cts
+
+12. (h03)
+ whirlpool corp qtr shr cts cts whirlpool corp qtr shr cts cts
+
+13. (h03)
+ gte corp qtr shr cts cts gte corp qtr shr cts cts
+
+14. (h09)
+ jun jun
+
+15. (h09)
+ jun jun
+
+16. (h03)
+ ford raises qtly payout cts shr cts ford raises qtly payout cts shr cts
+
+17. (h05)
+ <unk> corp <unk> qtr mar shr cts cts net revs mln mln
+
+18. (h05)
+ roto rooter inc roto qtr net shr cts cts net revs mln
+
+19. (h05)
+ tandy corp <unk> qtr sept net shr cts cts net mln mln revs mln mln avg shrs mln mln
+
+20. (h03)
+ <unk> corp <unk> qtr sept net shr cts cts net revs mln mln avg shrs mln mln
+
+21. (h03)
+ <unk> corp <unk> qtr net shr cts cts net mln mln revs mln mln
+
+22. (h03)
+ bancorp <unk> qtr net shr cts cts net mln mln avg shrs mln mln
+
+23. (h03)
+ raytheon qtr shr dlrs dlrs raytheon qtr shr dlrs dlrs
+
+24. (h06)
+ abbott laboratories qtr net shr cts cts abbott laboratories qtr net shr cts cts
+
+25. (h00)
+ mead corp qtr oper shr dlrs cts mead corp qtr oper shr dlrs cts
+
+26. (h02)
+ <unk> corp ohio <unk> qtr net shr cts cts net
+
+27. (h06)
+ napa valley bancorp <unk> qtr net shr cts cts net
+
+28. (h01)
+ <unk> microsystems inc <unk> qtr loss shr loss cts loss cts net loss loss revs avg shrs
+
+29. (h00)
+ westinghouse electric corp qtr shr dlrs cts westinghouse electric corp qtr shr dlrs cts
+
+30. (h01)
+ <unk> corp <unk> qtr sept loss shr loss cts loss cts net loss loss revs mln mln
+
+31. (h00)
+ park communications inc <unk> qtr mar shr cts cts net revs mln mln
+
+32. (h02)
+ trump interstate properties talks acquire alexanders trump interstate properties talks acquire alexanders
+
+33. (h00)
+ greyhound lines agrees acquire remaining routes trailways corp greyhound lines agrees acquire remaining routes trailways corp
+
+34. (h08)
+ ncr corp ncr qtr net shr cts cts net mln mln revs billion mln avg shrs mln mln
+
+35. (h08)
+ rio tinto zinc corp plc pretax profit mln stg mln rio tinto zinc corp plc pretax profit mln stg mln
+
+36. (h03)
+ permian raises crude oil postings cts bbl wti dlrs permian raises crude oil postings cts bbl wti dlrs
+
+37. (h05)
+ rowe furniture corp rowe qtr feb shr cts cts net revs mln mln
+
+38. (h01)
+ wells fargo qtr shr dlrs dlrs wells fargo qtr shr dlrs dlrs
+
+39. (h03)
+ marathon raises crude oil postings cts bbl wti dlrs marathon raises crude oil postings cts bbl wti dlrs
+
+40. (h03)
+ petro canada raises crude postings cts canadian bbl sweet crude dlrs canadian bbl petro canada raises crude postings cts canadian bbl sweet crude dlrs canadian bbl
+
+41. (h02)
+ <unk> corp <unk> qtr net shr dlrs dlr net
+
+42. (h01)
+ <unk> acquire prince mln dlrs <unk> acquire prince mln dlrs
+
+43. (h08)
+ gte corp gte qtr mar shr cts cts net mln mln revs billion billion avg shrs mln mln
+
+44. (h03)
+ merrill corp <unk> qtr april net shr cts cts net revs mln mln avg shrs
+
+45. (h08)
+ afg industries inc afg qtr net shr primary cts cts shr diluted cts cts net revs mln mln avg shrs primary
+
+46. (h01)
+ <unk> bancorp inc <unk> qtr net shr dlrs dlrs net avg shrs
+
+47. (h07)
+ roto rooter inc roto qtr net shr cts cts net revs mln mln nine mths shr cts cts net revs mln mln
+
+48. (h07)
+ uspci inc <unk> qtr net shr cts cts net revs mln mln nine mths shr cts cts net revs mln mln
+
+49. (h00)
+ park communications inc <unk> qtr net shr cts cts net revs mln mln
+
+50. (h00)
+ circle express terminates planned acquisition overland express circle express terminates planned acquisition overland express
+

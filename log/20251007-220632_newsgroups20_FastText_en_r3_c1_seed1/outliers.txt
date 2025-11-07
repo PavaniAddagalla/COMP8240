@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ <unk> <unk>
+
+02. (h01)
+ dir
+
+03. (h01)
+ isbn
+
+04. (h01)
+ commodore cdtv
+
+05. (h01)
+ mhz iisi
+
+06. (h01)
+ unsubscribe
+
+07. (h01)
+ unsubscribe
+
+08. (h01)
+ autodesk bbs
+
+09. (h00)
+ polysyllabic polysyllabic
+
+10. (h02)
+ deleted
+
+11. (h01)
+ ken
+
+12. (h01)
+ lou gehrig <unk>
+
+13. (h01)
+ apr <unk> ists dchhabra stpl ists
+
+14. (h01)
+ david
+
+15. (h02)
+ exit
+
+16. (h01)
+ <unk> jeremy scott noonan
+
+17. (h01)
+ italy sweden canada sweden russia italy
+
+18. (h01)
+ <unk> phones
+
+19. (h02)
+ posted
+
+20. (h01)
+ compuserve com
+
+21. (h00)
+ test
+
+22. (h00)
+ test
+
+23. (h01)
+ dreams
+
+24. (h02)
+ please subscrive
+
+25. (h02)
+ please subscrive
+
+26. (h01)
+ dancing <unk>
+
+27. (h01)
+ bill mcd
+
+28. (h01)
+ objects <unk>
+
+29. (h01)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+30. (h01)
+ pierre turgeon islanders
+
+31. (h01)
+ cheek
+
+32. (h02)
+ ignore
+
+33. (h01)
+ career mattingly
+
+34. (h01)
+ mjones donald aix kingston ibm com
+
+35. (h01)
+ <unk> order
+
+36. (h00)
+ mistake
+
+37. (h00)
+ ultimate <unk>
+
+38. (h01)
+ bullshit
+
+39. (h01)
+ dino ciccarelli ray sheppard
+
+40. (h00)
+ unfortunately
+
+41. (h00)
+ consistently
+
+42. (h01)
+ joke
+
+43. (h01)
+ jesus peace
+
+44. (h01)
+ alt religion spam
+
+45. (h00)
+ simple
+
+46. (h01)
+ secrecy lds ceremonies clh
+
+47. (h00)
+ religious fanaticism
+
+48. (h01)
+ ernest <unk> <unk> sage purdue edu <unk> sage <unk>
+
+49. (h02)
+ <unk> subscrive please subscribe
+
+50. (h02)
+ please subscribe
+

@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h00)
+ <unk> <unk>
+
+02. (h00)
+ <unk>
+
+03. (h08)
+ dir
+
+04. (h08)
+ isbn
+
+05. (h01)
+ commodore cdtv
+
+06. (h01)
+ autodesk bbs
+
+07. (h01)
+ mhz iisi
+
+08. (h07)
+ unsubscribe
+
+09. (h07)
+ unsubscribe
+
+10. (h01)
+ lou gehrig <unk>
+
+11. (h09)
+ deleted
+
+12. (h07)
+ polysyllabic polysyllabic
+
+13. (h07)
+ <unk> jeremy scott noonan
+
+14. (h01)
+ ken
+
+15. (h06)
+ mjones donald aix kingston ibm com
+
+16. (h09)
+ david
+
+17. (h01)
+ italy sweden canada sweden russia italy
+
+18. (h03)
+ apr <unk> ists <unk> <unk> ists
+
+19. (h08)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+20. (h03)
+ pierre turgeon islanders
+
+21. (h08)
+ ernest <unk> <unk> sage purdue edu <unk> sage <unk>
+
+22. (h05)
+ compuserve com
+
+23. (h03)
+ bill mcd
+
+24. (h07)
+ dino ciccarelli ray sheppard
+
+25. (h01)
+ exit
+
+26. (h01)
+ <unk> phones
+
+27. (h01)
+ dancing <unk>
+
+28. (h06)
+ posted
+
+29. (h09)
+ dreams
+
+30. (h09)
+ please subscrive
+
+31. (h09)
+ please subscrive
+
+32. (h08)
+ jesus peace
+
+33. (h03)
+ test
+
+34. (h03)
+ test
+
+35. (h01)
+ fox <unk> dave feustel nmyi feustel netcom com
+
+36. (h06)
+ secrecy lds ceremonies clh
+
+37. (h01)
+ career mattingly
+
+38. (h08)
+ shut andi
+
+39. (h05)
+ comp graphics faq
+
+40. (h08)
+ objects <unk>
+
+41. (h09)
+ bullshit
+
+42. (h08)
+ alt religion spam
+
+43. (h06)
+ mistake
+
+44. (h01)
+ xli xloadimage imagemagick export lcs mit edu contrib
+
+45. (h06)
+ ignore
+
+46. (h00)
+ liar cheat <unk>
+
+47. (h05)
+ religious fanaticism
+
+48. (h09)
+ joke
+
+49. (h01)
+ alt law enforcement
+
+50. (h03)
+ ultimate <unk>
+

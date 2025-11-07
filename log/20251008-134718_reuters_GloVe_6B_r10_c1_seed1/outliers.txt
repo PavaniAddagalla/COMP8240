@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h03)
+ apr apr
+
+02. (h03)
+ apr apr
+
+03. (h03)
+ apr apr
+
+04. (h03)
+ walgreen qtr shr cts cts walgreen qtr shr cts cts
+
+05. (h03)
+ oct oct
+
+06. (h03)
+ oct oct
+
+07. (h03)
+ oct oct
+
+08. (h03)
+ oct oct
+
+09. (h03)
+ oct oct
+
+10. (h05)
+ jun jun
+
+11. (h05)
+ jun jun
+
+12. (h03)
+ whirlpool corp qtr shr cts cts whirlpool corp qtr shr cts cts
+
+13. (h03)
+ rubbermaid inc qtr shr cts cts rubbermaid inc qtr shr cts cts
+
+14. (h03)
+ ncr corp qtr shr cts cts ncr corp qtr shr cts cts
+
+15. (h03)
+ gte corp qtr shr cts cts gte corp qtr shr cts cts
+
+16. (h02)
+ ford raises qtly payout cts shr cts ford raises qtly payout cts shr cts
+
+17. (h02)
+ bancorp usbc qtr net shr cts cts net mln mln avg shrs mln mln
+
+18. (h02)
+ napa valley bancorp <unk> qtr net shr cts cts net
+
+19. (h03)
+ rio tinto zinc corp plc pretax profit mln stg mln rio tinto zinc corp plc pretax profit mln stg mln
+
+20. (h02)
+ raytheon qtr shr dlrs dlrs raytheon qtr shr dlrs dlrs
+
+21. (h02)
+ abbott laboratories qtr net shr cts cts abbott laboratories qtr net shr cts cts
+
+22. (h03)
+ rowe furniture corp rowe qtr feb shr cts cts net revs mln mln
+
+23. (h03)
+ tandy corp <unk> qtr sept net shr cts cts net mln mln revs mln mln avg shrs mln mln
+
+24. (h03)
+ <unk> corp <unk> qtr sept net shr cts cts net revs mln mln avg shrs mln mln
+
+25. (h03)
+ <unk> corp <unk> qtr net shr cts cts net mln mln revs mln mln
+
+26. (h03)
+ <unk> corp <unk> qtr mar shr cts cts net revs mln mln
+
+27. (h02)
+ permian raises crude oil postings cts bbl wti dlrs permian raises crude oil postings cts bbl wti dlrs
+
+28. (h02)
+ marathon raises crude oil postings cts bbl wti dlrs marathon raises crude oil postings cts bbl wti dlrs
+
+29. (h03)
+ roto rooter inc roto qtr net shr cts cts net revs mln
+
+30. (h02)
+ wells fargo qtr shr dlrs dlrs wells fargo qtr shr dlrs dlrs
+
+31. (h03)
+ <unk> corp <unk> qtr sept loss shr loss cts loss cts net loss loss revs mln mln
+
+32. (h03)
+ mead corp qtr oper shr dlrs cts mead corp qtr oper shr dlrs cts
+
+33. (h03)
+ <unk> microsystems inc <unk> qtr loss shr loss cts loss cts net loss loss revs avg shrs
+
+34. (h02)
+ raytheon <unk> qtr net shr dlrs dlrs net mln mln revs billion billion avg shrs mln mln
+
+35. (h03)
+ westinghouse electric corp qtr shr dlrs cts westinghouse electric corp qtr shr dlrs cts
+
+36. (h02)
+ <unk> bancorp <unk> qtr net shr cts cts net loans mln mln deposits billion mln assets billion billion
+
+37. (h02)
+ imperial oil raises crude oil postings canadian cts bbl light sweet imperial oil raises crude oil postings canadian cts bbl light sweet
+
+38. (h02)
+ ohio edison <unk> qtr net shr cts cts net mln mln revs mln mln avg shrs mln mln mths shr dlrs dlrs net mln mln revs billion billion avg shrs mln mln
+
+39. (h02)
+ <unk> <unk> <unk> qtr net shr cts cts net sales mln mln avg shrs
+
+40. (h02)
+ centerre bancorp ctbc qtr net shr cts dlrs net loans billion billion deposits billion billion assets billion billion
+
+41. (h02)
+ petro canada raises crude postings cts canadian bbl sweet crude dlrs canadian bbl petro canada raises crude postings cts canadian bbl sweet crude dlrs canadian bbl
+
+42. (h02)
+ <unk> acquire prince mln dlrs <unk> acquire prince mln dlrs
+
+43. (h03)
+ deposit guaranty corp <unk> qtr net shr dlrs dlrs shr diluted dlrs dlrs net
+
+44. (h03)
+ <unk> corp <unk> qtr net shr cts cts net loans mln mln deposits mln mln assets mln mln
+
+45. (h02)
+ shell canada raises crude oil posting canadian cts bbl shell canada raises crude oil posting canadian cts bbl
+
+46. (h03)
+ ncr corp ncr qtr net shr cts cts net mln mln revs billion mln avg shrs mln mln
+
+47. (h03)
+ <unk> corp ohio <unk> qtr net shr cts cts net
+
+48. (h02)
+ basin pipeline texas okla border washed floods bpd crude affected basin pipeline texas okla border washed floods bpd crude affected
+
+49. (h03)
+ gte corp gte qtr mar shr cts cts net mln mln revs billion billion avg shrs mln mln
+
+50. (h02)
+ quaker oats oat qtr sept net shr cts cts net mln mln sales billion mln avg shrs
+

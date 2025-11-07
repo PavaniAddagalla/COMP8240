@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h01)
+ polysyllabic polysyllabic
+
+02. (h00)
+ apr <unk> ists <unk> <unk> ists
+
+03. (h02)
+ autodesk bbs
+
+04. (h03)
+ unsubscribe
+
+05. (h03)
+ unsubscribe
+
+06. (h02)
+ dir
+
+07. (h03)
+ bullshit
+
+08. (h00)
+ commodore cdtv
+
+09. (h03)
+ urn <unk>
+
+10. (h00)
+ isbn
+
+11. (h03)
+ yep
+
+12. (h01)
+ mhz iisi
+
+13. (h03)
+ lou gehrig <unk>
+
+14. (h00)
+ ernest <unk> <unk> sage purdue edu <unk> sage <unk>
+
+15. (h01)
+ comp graphics faq
+
+16. (h00)
+ dino ciccarelli ray sheppard
+
+17. (h03)
+ compuserve com
+
+18. (h03)
+ cheek
+
+19. (h01)
+ deleted
+
+20. (h00)
+ pierre turgeon islanders
+
+21. (h00)
+ ken
+
+22. (h03)
+ liar cheat demagogue
+
+23. (h00)
+ <unk> jeremy scott noonan
+
+24. (h04)
+ abolish cults
+
+25. (h00)
+ fox <unk> dave feustel nmyi feustel netcom com
+
+26. (h00)
+ xli xloadimage goto flag
+
+27. (h00)
+ posted
+
+28. (h00)
+ mjones donald aix kingston ibm com
+
+29. (h04)
+ xli xloadimage imagemagick export lcs mit edu contrib
+
+30. (h03)
+ dancing <unk>
+
+31. (h04)
+ exit
+
+32. (h00)
+ <unk> <unk> umcc umcc umich edu dlc umcc umcc umich edu david
+
+33. (h01)
+ article <unk> sys bison baden sys bison baden bari
+
+34. (h01)
+ <unk> file dis <unk> file tga
+
+35. (h04)
+ shut andi
+
+36. (h03)
+ please subscribe
+
+37. (h03)
+ <unk> subscrive please subscribe
+
+38. (h03)
+ please subscribe
+
+39. (h03)
+ please subscribe
+
+40. (h00)
+ fuhr rings <unk> errey bob rings
+
+41. (h00)
+ david
+
+42. (h03)
+ okay okay forgot <unk>
+
+43. (h01)
+ quoting dougb ecs comm mot com article apr <unk> comm mot com
+
+44. (h01)
+ alt religion spam
+
+45. (h03)
+ gee forgotten nut
+
+46. (h03)
+ dreams
+
+47. (h01)
+ objects ufos
+
+48. (h01)
+ secrecy lds ceremonies clh
+
+49. (h03)
+ greetings sorry <unk> clipper hooks
+
+50. (h00)
+ flat engine
+

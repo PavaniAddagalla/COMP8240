@@ -1,0 +1,152 @@
+Most anomalous examples
+
+01. (h02)
+ apr apr
+
+02. (h02)
+ apr apr
+
+03. (h02)
+ apr apr
+
+04. (h02)
+ oct oct
+
+05. (h02)
+ oct oct
+
+06. (h02)
+ oct oct
+
+07. (h02)
+ oct oct
+
+08. (h02)
+ oct oct
+
+09. (h00)
+ jun jun
+
+10. (h00)
+ jun jun
+
+11. (h02)
+ walgreen qtr shr cts cts walgreen qtr shr cts cts
+
+12. (h02)
+ bancorp usbc qtr net shr cts cts net mln mln avg shrs mln mln
+
+13. (h01)
+ ford raises qtly payout cts shr cts ford raises qtly payout cts shr cts
+
+14. (h01)
+ basin pipeline texas okla border washed floods bpd crude affected basin pipeline texas okla border washed floods bpd crude affected
+
+15. (h02)
+ gte corp qtr shr cts cts gte corp qtr shr cts cts
+
+16. (h02)
+ ncr corp qtr shr cts cts ncr corp qtr shr cts cts
+
+17. (h02)
+ whirlpool corp qtr shr cts cts whirlpool corp qtr shr cts cts
+
+18. (h01)
+ abbott laboratories qtr net shr cts cts abbott laboratories qtr net shr cts cts
+
+19. (h01)
+ balladur urges respect pledges monetary policy louvre accord balladur urges respect pledges monetary policy louvre accord
+
+20. (h01)
+ permian raises crude oil postings cts bbl wti dlrs permian raises crude oil postings cts bbl wti dlrs
+
+21. (h01)
+ napa valley bancorp <unk> qtr net shr cts cts net
+
+22. (h01)
+ marathon raises crude oil postings cts bbl wti dlrs marathon raises crude oil postings cts bbl wti dlrs
+
+23. (h00)
+ john <unk> qtr net shr cts cts net mln revs mln mln
+
+24. (h02)
+ rubbermaid inc qtr shr cts cts rubbermaid inc qtr shr cts cts
+
+25. (h01)
+ stoltenberg rule central bank intervention stabilize currencies stoltenberg rule central bank intervention stabilize currencies
+
+26. (h01)
+ wells fargo qtr shr dlrs dlrs wells fargo qtr shr dlrs dlrs
+
+27. (h01)
+ <unk> savings bank <unk> qtr net shr cts cts net avg shrs
+
+28. (h01)
+ tokyo bundesbank schlesinger sees reason lower interest rates tokyo bundesbank schlesinger sees reason lower interest rates
+
+29. (h01)
+ <unk> <unk> <unk> qtr net shr cts cts net sales mln mln avg shrs
+
+30. (h01)
+ raytheon qtr shr dlrs dlrs raytheon qtr shr dlrs dlrs
+
+31. (h01)
+ ohio edison <unk> qtr net shr cts cts net mln mln revs mln mln avg shrs mln mln mths shr dlrs dlrs net mln mln revs billion billion avg shrs mln mln
+
+32. (h01)
+ sumita welcomes west german joint confirmation louvre accord sumita welcomes west german joint confirmation louvre accord
+
+33. (h01)
+ shell canada raises crude oil posting canadian cts bbl shell canada raises crude oil posting canadian cts bbl
+
+34. (h01)
+ marathon raised crude posted prices cts barrel effective october marathon raised crude posted prices cts barrel effective october
+
+35. (h01)
+ spectra physics rejects ciba geigy tender offer spectra physics rejects ciba geigy tender offer
+
+36. (h01)
+ petro canada raises crude postings cts canadian bbl sweet crude dlrs canadian bbl petro canada raises crude postings cts canadian bbl sweet crude dlrs canadian bbl
+
+37. (h01)
+ <unk> valley <unk> qtr net qtr ended april shr seven cts cts net revs
+
+38. (h01)
+ imperial oil raises crude oil postings canadian cts bbl light sweet imperial oil raises crude oil postings canadian cts bbl light sweet
+
+39. (h01)
+ raytheon <unk> qtr net shr dlrs dlrs net mln mln revs billion billion avg shrs mln mln
+
+40. (h01)
+ <unk> <unk> bank trust <unk> qtr net shr cts cts shr diluted cts cts net avg shrs avg shrs diluted
+
+41. (h01)
+ <unk> <unk> qtr net shr cts cts net revs avg shrs mln nine mths shr dlrs dlrs net mln revs mln avg shrs mln
+
+42. (h01)
+ house speaker wright concerned interest rate rise greenspan house speaker wright concerned interest rate rise greenspan
+
+43. (h01)
+ quaker oats oat qtr sept net shr cts cts net mln mln sales billion mln avg shrs
+
+44. (h01)
+ <unk> family restaurants <unk> qtr shr cts cts net revs mln mln nine mths shr cts cts net revs mln mln
+
+45. (h01)
+ coastal raises crude oil postings cts bbl yesterday wti dlrs coastal raises crude oil postings cts bbl yesterday wti dlrs
+
+46. (h01)
+ arco raises crude oil prices cts barrel today wti arco raises crude oil prices cts barrel today wti
+
+47. (h01)
+ canada february trade surplus billion dlrs january mln dlrs surplus canada february trade surplus billion dlrs january mln dlrs surplus
+
+48. (h01)
+ eastern utilities associates qtr net shr cts cts net mln mln revs mln mln avg shrs nine mths shr dlrs dlrs net mln mln revs mln mln avg shrs mths shr dlrs dlrs net mln mln revs mln mln avg shrs
+
+49. (h01)
+ unocal raised crude oil postings cts bbl wti dlrs bbl unocal raised crude oil postings cts bbl wti dlrs bbl
+
+50. (h01)
+ <unk> <unk> qtr net shr cts cts net revs <unk> sales mln mln nine mths shr dlrs cts net revs mln mln <unk> sales mln mln avg shrs
+
