@@ -33,7 +33,7 @@ Without this modification, the training script would raise a “dataset not foun
 
 ## Usage Instructions
 
-Run the notebooks in New Data Construction/ to generate or refresh datasets.
+Run the notebooks= in New Data Construction/new_data.ipynb to generate or refresh datasets.
 
 Use the dataset loaders in src/datasets/ (wikipedia_topic_mix.py or bbc2.py) to prepare data for training.
 
@@ -44,7 +44,10 @@ Confirm that main.py includes 'BBC2' and 'wikipedia_topic_mix' in the dataset li
 Open log/<timestamped_folder>/log.txt for AUC values.
 
 Open top_words_test.txt for attention and context vector outputs.
-Example Log Path
+
+### Example Log Path
 log/20251007-220632_newsgroups20_GloVe_6B_r3_c4_seed1/
+
 ├── log.txt              # AUC metrics and training stats
+
 ├── top_words_test.txt   # Attention + context vectors
